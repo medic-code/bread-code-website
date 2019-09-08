@@ -14,7 +14,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
   avatar_url: "https://avatars0.githubusercontent.com/u/816859?s=460&v=4" # avatar in about page
-  about_you: Software engineer with a passion for baking bread from Hamburg, Germany.
+  about_you: Software engineer with a passion for baking bread. Originally from Hamburg, Germany.
   date_format: "%b %d" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
 
