@@ -56,8 +56,9 @@ longer shelf life.
 
 5. Take the dough and place it on the flour
 
-6. Try to form a little bit of a ball. Don't worry, it will not properly hold
-   together. That's because of the corn flour and rye.
+6. Try to form a little bit of a ball. Don't worry, it will not fully hold
+together. That's because of rye flour. Rye flour does not form a good gluten
+network.
 
 7. Place it in a rice-flowered banneton. Don't save on the flour. You do not
    want it to stick together.
