@@ -30,6 +30,7 @@ to 40% starter overall, having 20% active starter and 20% old discard starter.
 ![Picture of Mischbrot](/assets/images/recipes/mischbrot-1.jpg)
 ![Picture of 2 different scoring techniques](/assets/images/recipes/mischbrot-2.jpg)
 
+
 ## Ingredients
 * 250 grams of rye flour (50%)
 * 250 grams of wheat flour (50%)
@@ -38,6 +39,9 @@ to 40% starter overall, having 20% active starter and 20% old discard starter.
 * 10 grams of salt (2%)
 
 ## Instructions
+
+[For everybody that prefers a video - there is a small video showing the overall proces.](https://youtu.be/l9g4AI_z3uY)
+
 1. Mix all the ingredients together until you see that the flour has been nicely incorporated.
 
 2. Place it in a covered bowl.
