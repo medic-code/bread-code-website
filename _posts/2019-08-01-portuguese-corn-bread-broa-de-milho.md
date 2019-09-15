@@ -46,4 +46,4 @@ depending on how long you fermented the the dough.
 ![Portuguese Broa Bread](/assets/images/recipes/portuguese-broa-corn-bread-2.jpg)
 ![Portuguese Broa Bread](/assets/images/recipes/portuguese-broa-corn-bread-3.jpg)
 
-[See updates to the recipe on Github.](https://github.com/hendricius/the-bread-code/blob/master/recipes/savory/portuguese-broa-corn-bread.md)
+[See recipe updates or improve this recipe on Github.](https://github.com/hendricius/the-bread-code/blob/master/recipes/savory/portuguese-broa-corn-bread.md)
