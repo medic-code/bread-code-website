@@ -3,6 +3,7 @@ layout: post
 title: "Recipe: Fogaça de Santa maria da Feira"
 categories: recipe
 author: Hendrik Kleinwächter
+description: "This recipe is about making a typical portuguese bread: Fogaça de Santa maria da Feira. The bread represents the castle of the small city."
 ---
 It's a typical bread from the city of Santa Maria da Feira. It represents the castle in the city. The dough is rolled up like a swirl in the end. The top is cut with scissors to achieve the look of the castle. The taste is slightly sweet, cinnamony and finished off with a nice lemon touch. It is a protected product, just like the Parmigiano cheese from Italy for instance. A good place to by it in Feira is: [Padaria Sao Nicolau](https://www.gescontact.pt/padaria-sao-nicolau-santa-nc)
 

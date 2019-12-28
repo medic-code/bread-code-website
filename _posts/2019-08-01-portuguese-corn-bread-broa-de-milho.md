@@ -3,6 +3,7 @@ layout: post
 title: "Recipe: Broa de Milho - portuguese corn bread"
 categories: recipe
 author: Hendrik Kleinwächter
+description: In this recipe you are learning how to make a portuguese broa de milho. A typical bread that is often enjoyed with soups. It is a mixture of rye and corn made with sourdough.
 ---
 Broa is a type of corn and rye/wheat bread traditionally made in Portugal,
 Galicia, Angola, Mozambique, Cape Verde, and Brazil. Unlike the cornbread

@@ -3,6 +3,7 @@ layout: post
 title: "Recipe: Make your own sourdough"
 categories: recipe
 author: Hendrik Kleinwächter
+description: In this tutorial you will learn how to make your own sourdough starter for baking bread or baking pizza. It is going to take 7 days overall and then you are ready to bake.
 ---
 
 # Make your own sourdough

@@ -3,6 +3,7 @@ layout: post
 title: "Recipe: Mischbrot aka. Graubrot"
 categories: recipe
 author: Hendrik Kleinwächter
+description: In this recipe you are going to learn how to bake a German Mischbrot, also known as Graubrot.
 ---
 
 # German Mischbrot aka. Graubrot
