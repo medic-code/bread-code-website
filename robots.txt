@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://blog.the-bread-code.io/sitemap.xml
