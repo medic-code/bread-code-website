@@ -10,10 +10,9 @@ Going back in time I had been obsessed with making pizza at home before I starte
 
 I in no way claim that all of the information here is scientifically correct. This is not a work of professional science, but more a work of my research over the years. 
 
-I will try to keep all the recipes here up to date, but you can also find them on Github:
-* [🍞 https://github.com/hendricius/the-bread-code](https://github.com/hendricius/the-bread-code)
-* ... and [🍕 https://github.com/hendricius/pizza-dough](https://github.com/hendricius/pizza-dough)
-
-The reason why I chose git to document my recipes is to visualize the progress my learning curve. To the reader it might be interesting to see how I altered my recipes over time.
+Find my recipes over at:
+* [YouTube](https://www.youtube.com/c/TheBreadCode)
+* [GitHub](https://github.com/hendricius/the-bread-code)
+* ... and [GitHub for Pizza 🍕](https://github.com/hendricius/pizza-dough)
 
 Happy baking.

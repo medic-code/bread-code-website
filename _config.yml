@@ -20,7 +20,8 @@ moving:
 
   # generate social links in about page.
   social_links:
-    # twitter: 
+    youtube_channel: TheBreadCode
+    youtube_channel_name: TheBreadCode
     github:  hendricius
     rss: RSS
     # dribbble: 
@@ -30,8 +31,6 @@ moving:
     reddit: the_bread_code
     # pinterest: 
     # youtube: 
-    # youtube_channel: 
-    # youtube_channel_name: 
     # telegram: 
     # googleplus: 
     # microdotblog: 
