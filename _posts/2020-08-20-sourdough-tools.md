@@ -8,6 +8,8 @@ description: This is the complete list of tools that you need for sourdough baki
 
 This is a list of all the tools that I use for sourdough baking. All of them have been tested by me.
 
+# Tools
+
 [Amazy Banneton Batard](https://www.amazon.de/gp/product/B01IDELMWO/ref=ppx_yo_dt_b_search_asin_title)
 
 [Infrared Thermometer](https://www.amazon.de/gp/product/B07NY5RH9X/ref=ppx_yo_dt_b_search_asin_title)
