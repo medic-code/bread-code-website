@@ -10,7 +10,7 @@ This is a list of all the tools that I use for sourdough baking. All of them hav
 
 # Tools
 
-[Amazy Banneton Batard](https://www.amazon.de/gp/product/B01IDELMWO/ref=ppx_yo_dt_b_search_asin_title). I like those bannetons as they come with a linen included already.
+[Amazy Banneton Batard](https://www.amazon.de/gp/product/B01IDELMWO/ref=ppx_yo_dt_b_search_asin_title). I like those bannetons as they come with a linen included already. I have the ones that are roughly 28cm in length for my batards. They work well for up to 500 grams of flour.
 
 [CanDeal Loaf Pan for 1000gr](https://www.amazon.de/gp/product/B07Y4ZBPDQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). This loaf pan has a lid which makes it easy to create steam. You can remove the lid later on. No need to add additional steam to your oven. This makes it very easy.
 
