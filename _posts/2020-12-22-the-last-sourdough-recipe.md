@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Last Sourdough Bread Recipe You Ever Need"
-categories: tutorial
+categories: recipe
 author: Hendrik Kleinwächter
 description: This is the best and most complete sourdough bread recipe you ever need, consistently rewarding you with world class beautiful and tasty sourdough bread every time.
 
