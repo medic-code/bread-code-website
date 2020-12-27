@@ -28,7 +28,7 @@ You might have to adjust the days depending on when you actually want it ready.
 * 100g whole wheat flour
 * 275-350g water (see below)
 * 100g active sourdough starter (20%)
-* 10g salt (10%)
+* 10g salt (2%)
 
 Note - the more protein your flour has, the more water you can use. This is crucial as you might bake a frisbee in case you overdo it.
 
