@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Recipe: Mischbrot aka. Graubrot"
+title: "How To Make an Amazing German Mischbrot"
 categories: recipe
 author: Hendrik Kleinwächter
-description: In this recipe you are going to learn how to bake a German Mischbrot, also known as Graubrot.
+description: This is how you make an amazing German Mischbrot, also known as Graubrot.
 ---
 
 # German Mischbrot aka. Graubrot
@@ -89,4 +89,4 @@ depending on how long you fermented the the dough.
 ![Picture of Mischbrot](/assets/images/recipes/mischbrot-4.jpg)
 ![Picture of Mischbrot](/assets/images/recipes/mischbrot-5.jpg)
 
-[See recipe updates or improve this recipe on Github.](https://github.com/hendricius/the-bread-code/blob/master/recipes/savory/mischbrot-aka-graubrot.md)
+[Also check out the YouTube video of the whole process.](https://youtu.be/l9g4AI_z3uY)

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Recipe: Make your own sourdough"
+title: "The Last Sourdough Starter Recipe You Ever Need"
 categories: recipe
 author: Hendrik Kleinwächter
-description: In this tutorial you will learn how to make your own sourdough starter for baking bread or baking pizza. It is going to take 7 days overall and then you are ready to bake.
+description: This is how you make a top class sourdough starter very easily in just a few days.
 ---
 
 # Make your own sourdough
@@ -203,3 +203,6 @@ Don't worry, my mother dough survived for 4 weeks in the fridge.
 You are not forced to bake every weekend.  Some liquid may gather on top of your
 mother dough, that's usually lactic acid and a good amount of alcohol.
 Just remove that, feed your dough again and you should be good.
+
+
+Please also check out my [full YouTube tutorial on how to make the starter.](https://youtu.be/ZTHHI0iuamA)

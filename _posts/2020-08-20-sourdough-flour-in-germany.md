@@ -1,12 +1,15 @@
 ---
 layout: post
-title: "The Ultimate Guide To Shopping Bread Flour in Germany"
+title: "Which Flour To Use for Sourdough in Germany?"
 categories: tutorial
 author: Hendrik Kleinwächter
 description: This is a small guide on shopping excellent bread flour for your sourdough in Germany.
+permalink: "/tutorial/2020/08/20/sourdough-flour-in-germany.html"
 ---
 
-I have been asked many times which flour you should be using for baking sourdough in Germany. In many tutorials you see people using bread flour.
+I have been asked many times which flour you should be using for baking sourdough in Germany. In many tutorials you see people using bread flour for instance. It's a great flour as it typically has a higher gluten content.
+
+# The different flours in Germany
 
 Some suggest to use T812 flour, but this is a myth. This is not bread flour. The type indicates how many minerals remain in mg after burning 100 grams of the flour. So a T550 would have 550mg left, a T812 812mg and so on. `Vollkorn` has no label as it is the pure grain. The higher the type the more parts of the bran you have in your flour. This makes it more healthy, but also has negative effects on building a gluten network. The bran cuts into your gluten network.
 
@@ -25,3 +28,9 @@ Drax Muehle has an excellent ["Manitoba" flour](https://drax.biodeliver.de/produ
 Caputo also has a product called [Manitoba Flour.](https://www.mulinocaputo.it/en/flour/la-linea-cucina/manitoba). You can find it on Amazon as well. It is an excellent flour great for making fluffy breads, ciabattas and baguettes. It has been my flour of choice for years.
 
 At Metro in Germany you can find "Pizza Flour". It is a supermarket where you only have access to when you have a business registered. Make sure you buy the one without any additives. It is the own brand of Metro. It has around 14% protein and is an excellent flour too.
+
+At Edeka you can find a T405 flour with around 12% protein.
+
+At Rewe you can find a T550 flour with around 12% protein by "Aurora". It is labeled as extra backstark.
+
+If you are interested please also check out my [visit to Drax Mühle](https://www.youtube.com/watch?v=KooRWvS5c-A), where I have a closer look at how flour is made in Germany.
