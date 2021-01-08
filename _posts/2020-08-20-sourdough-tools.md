@@ -12,7 +12,7 @@ Don't miss those sourdough tools. They have all been tested by me in day to day 
 
 Banneton Proofing basket (25cm length, 15cm width, 8.5cm height). This is a great banneton that's perfect for baking batards of 500g flour: [https://amzn.to/39SqgrM](https://amzn.to/39SqgrM)
 
-Cooling racks. Great after you baked your bread to cool it: [https://https://amzn.to/3mCEujf](https://https://amzn.to/3mCEujf)
+Cooling racks. Great after you baked your bread to cool it: [https://amzn.to/3mCEujf](https://https://amzn.to/3mCEujf)
 
 Dough Scraper. A metal dough scraper works wonders: [https://amzn.to/3n6fodo](https://amzn.to/3n6fodo)
 
