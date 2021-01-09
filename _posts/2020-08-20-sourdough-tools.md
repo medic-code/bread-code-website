@@ -11,16 +11,27 @@ Don't miss those sourdough tools. They have all been tested by me in day to day 
 # Tools
 
 Banneton proofing basket (25cm length, 15cm width, 8.5cm height): <https://thbrco.io/banneton>
+
 Cooling rack: <https://thbrco.io/cooling-rack>
+
 Dough scraper: <https://thbrco.io/dough-scraper>
+
 Dutch oven for batards (Challenger Bread Pan): <https://thbrco.io/dutch-oven-batards>
+
 Dutch oven round (Lodge): <https://thbrco.io/dutch-oven-round>
+
 Dutch oven with glas lid (Brovn): <https://thbrco.io/dutch-oven-glas-lid>
+
 Infrared thermometer: <https://thbrco.io/infared-meter>
+
 Loaf pan (30cm length x 12cm width x 9cm height): <https://thbrco.io/loaf-pan-regular>
+
 Loaf pan with lid (34cm length, 13cm width, 12cm height): <https://thbrco.io/loaf-pan-lid>
+
 No stick spray (vegetable based): <https://thbrco.io/non-stick-spray>
+
 pH meter to check acidity: <https://thbrco.io/ph-meter>
+
 Weck starter jars: <https://thbrco.io/weck-jars>
 
 # Merchandise
