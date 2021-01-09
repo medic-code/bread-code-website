@@ -36,6 +36,6 @@ Weck starter jars: <https://thbrco.io/weck-jars>
 
 # Merchandise
 
-If you want to support me also check out some of my custom designed bread baking T-Shirts: [<https://the-bread-code.myteespring.co/](<https://the-bread-code.myteespring.co/)
+If you want to support me also check out some of my custom designed bread baking T-Shirts: <https://the-bread-code.myteespring.co/>
 
 Please note that some of the links are affiliate links and that I earn a commission whenever you buy a product. I would not recommend something that I have not personally tested. All the tools here work great.
