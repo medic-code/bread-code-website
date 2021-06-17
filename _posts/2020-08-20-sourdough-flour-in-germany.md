@@ -11,26 +11,22 @@ I have been asked many times which flour you should be using for baking sourdoug
 
 # The different flours in Germany
 
-Some suggest to use T812 flour, but this is a myth. This is not bread flour. The type indicates how many minerals remain in mg after burning 100 grams of the flour. So a T550 would have 550mg left, a T812 812mg and so on. `Vollkorn` has no label as it is the pure grain. The higher the type the more parts of the bran you have in your flour. This makes it more healthy, but also has negative effects on building a gluten network. The bran cuts into your gluten network.
+Some suggest to use T812 flour as bread flour, but this is a myth. This is not bread flour. The type indicates how many minerals remain in mg after burning 100 grams of the flour. So a T550 would have 550mg left, a T812 812mg and so on. `Vollkorn` has no label as it is the pure grain. The problem with German flours is the lack of sun. This means that the wheat naturally doesn't develop as much gluten. Germany is a rye country, but not a wheat country. The flour that you want to use from Germany is typically a T550, or a T405 for white style bread. But - as mentioned before, it's not as high in protein content as a similar flour from Italy for instance.
 
-So - having said that, you will want to buy T550 flour. That is equivalent to international all purpose flour. However, the German T550 has way less protein, around 10% only. Bread flour is all purpose flour with added gluten. Yes - common wheat doesn't have this high amount of protein naturally. It does not have to be listed on the packaging, as gluten is pretty much also refined flour. Similarly all the modifications do not have to be listed on the packaging when buying bread in a store. Some amino acids are added and removed. It is just mixing different kind of flours. It is not required to state this on the packaging.
+The % protein directly influences how much water you should be using for your flour. I made a video on this before how you can figure out [how much water your flour handles.](https://youtu.be/s1gM_jziXcI). Perform this test whenever you are baking with a new flour.
 
-The % protein directly influences how much water you should be using for your flour. I made a video on this before how you can figure out [how much water your flour handles.](https://youtu.be/s1gM_jziXcI)
-
-So - yes, you can make your own bread flour by mixing gluten into your flour. Or you can already buy premixed flours with great properties. Below is a list of the vendors where I like to buy flour.
+You can also tweak your German flour buy mixing in a little bit of vital wheat gluten. I recommend to add around 5g of wheat gluten per 100g of flour. Make sure to mix the flour thoroughly.
 
 # Recommended flour
 
-Mulino Padano (delivers in EU, from Italy). My favorite one is definitely the ["Star" flour.](https://www.mulinopadano.it/cms/wp-content/uploads/2017/08/Professione-Fornaio_Star_Mulino-Padano.pdf). It has superb strength and allows you to build very hydrated doughs.
+Mulino Padano (delivers in EU, from Italy). My favorite one is definitely the ["Star" flour.](https://thbrco.io/mulino-flour) It has superb strength and allows you to build very hydrated doughs. Feel free to use "TheBreadCode" for 5% off.
 
-Drax Muehle has an excellent ["Manitoba" flour](https://drax.biodeliver.de/produkte/suche/?term=manitoba). It comes from Canada, but is also grown here in the EU. It has around 14% protein. It is one of my favorite flours available in Germany.
+Drax Muehle is a mill in southern Germany. They have ["Manitoba" flour](https://drax.biodeliver.de/produkte/suche/?term=manitoba) as well. It comes from Canada, but is also grown here in the EU. It has around 14% protein. Check out my [documentary on visiting the Drax Muehle.](https://thbrco.io/debaked-flour-mill).
 
-Caputo also has a product called [Manitoba Flour.](https://www.mulinocaputo.it/en/flour/la-linea-cucina/manitoba). You can find it on Amazon as well. It is an excellent flour great for making fluffy breads, ciabattas and baguettes. It has been my flour of choice for years.
+Caputo also has a product called [Manitoba Flour.](https://www.mulinocaputo.it/en/flour/la-linea-cucina/manitoba). You can find it on Amazon as well. It is an excellent flour great for making fluffy breads, ciabattas and baguettes. It has been my flour of choice for years. It's a relatively large mill and the flour is blended to make consistent flour every year. It's not organic and relatively industrial.
 
 At Metro in Germany you can find "Pizza Flour". It is a supermarket where you only have access to when you have a business registered. Make sure you buy the one without any additives. It is the own brand of Metro. It has around 14% protein and is an excellent flour too.
 
 At Edeka you can find a T405 flour with around 12% protein.
 
 At Rewe you can find a T550 flour with around 12% protein by "Aurora". It is labeled as extra backstark.
-
-If you are interested please also check out my [visit to Drax Mühle](https://www.youtube.com/watch?v=KooRWvS5c-A), where I have a closer look at how flour is made in Germany.
