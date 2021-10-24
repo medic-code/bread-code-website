@@ -84,6 +84,10 @@ Some bakers like to mix a portion of the dough in advance. I personally don't se
 I use a little less starter. The autolysis as far as I can tell helps to the protease and amylase enzyme to do their work. Sometimes if your main dough fermentation is too fast biochemical reactions
 don't happen fast enough. But to counter that I simply use a little less starter to achieve the same thing with a slower fermentation.
 
+# Leftovers
+
+when feeding you will end up with leftover start that you don't use. Please don't throw it away. Store it in your fridge and then make some [sourdough spice](https://www.youtube.com/watch?v=bVrSZzpVUnY) or a [delicious bread](https://www.youtube.com/watch?v=xmt3eXzOQLM) out of it.
+
 # Closing words
 
 I just wanted to quickly write this post down. I will be adding sources for everything asap when I have a bit more time :-). In general I can recommend the following books where many of the aspects are covered. But please also know that your starter is a symbiotic relationship of various microorganisms. This means that it doesn't necessarily mean that all the research applies to your starter as well. Experimentation at home is required.
