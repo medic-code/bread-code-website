@@ -1,0 +1,20 @@
+{
+  "name": "bread-code-website",
+  "repository": "https://github.com/hendricius/bread-code-website",
+  "environments": {
+    "test": {
+      "addons":[],
+      "scripts": {
+        "test": "bundle exec jekyll build"
+      },
+      "buildpacks": [
+        { "url": "heroku/ruby" },
+        { "url": "https://github.com/heroku/heroku-buildpack-static.git" }
+      ],
+      "env": {}
+    }
+  },
+  "scripts": {
+    "postdeploy": "bundle exec jekyll build"
+  }
+}
