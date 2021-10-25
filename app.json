@@ -6,14 +6,17 @@
       "addons":[],
       "scripts": {
         "test": "bundle exec jekyll build"
-      },
-      "buildpacks": [
-        { "url": "https://github.com/heroku/heroku-buildpack-static.git" },
-        { "url": "heroku/ruby" }
-      ],
-      "env": {}
+      }
     }
   },
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static.git"
+    }
+  ],
   "scripts": {
     "postdeploy": "bundle exec jekyll build"
   }
