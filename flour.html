@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h1>Flour</h1>
+
+{% for tool in site.data.flour  %}
+<div class="flour">
+    <a href="{{ flour.url }}">{{ flour.name }}</a>
+    <img src="/assets/images/flour/{{ flour.image }}" />
+</div>
+{% endfor %}
