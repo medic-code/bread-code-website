@@ -1,5 +1,5 @@
 title: The Bread Code
-author: Hendrik aka. The Bread Code # Your name
+author: Hendrik aka. The Bread Code
 email: contact@the-bread-code.io # your email shown in the footer
 url: https://blog.the-bread-code.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -7,43 +7,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Follow me on my journey to becoming a skilled baker. This blog is dedicated to
   sharing my learning progress.
 favicon: "./favicon.ico" # set the favicon of the site
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Moving date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-moving:
-  avatar_url: "https://avatars0.githubusercontent.com/u/816859?s=460&v=4" # avatar in about page
-  about_you: Software engineer with a passion for baking bread. Originally from Hamburg, Germany.
-  date_format: "%b %d" # date format of posts in home page
-  back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
-
-  # generate social links in about page.
-  social_links:
-    youtube_channel: TheBreadCode
-    youtube_channel_name: TheBreadCode
-    github:  hendricius
-    rss: RSS
-    # dribbble: 
-    # flickr:   
-    instagram: the_bread_code
-    linkedin: hendrikkleinwaechter
-    reddit: the_bread_code
-    # pinterest: 
-    # youtube: 
-    # telegram: 
-    # googleplus: 
-    # microdotblog: 
-
-    # Mastodon instances
-    # mastodon:
-    # - username: 
-    #   instance: 
-    # - username: 
-    #   instance: 
-
-# Build settings
-theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
 
 plugins:
   - jekyll-feed

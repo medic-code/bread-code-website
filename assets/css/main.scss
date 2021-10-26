@@ -2,5 +2,14 @@
 sitemap: false
 ---
 
-@import "moving";
-@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+.header {
+  background-color: red;
+}
+
+.content {
+  background-color: yellow;
+}
+
+.footer {
+  background-color: green;
+}
