@@ -1,0 +1,7 @@
+- name: Discord
+  url: 'https://google.com'
+  icon: discord
+
+- name: Instagram
+  url: 'https://google.com'
+  icon: reddit
