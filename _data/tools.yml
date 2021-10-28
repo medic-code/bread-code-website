@@ -1,17 +1,111 @@
-- name: Dough Scraper
-  url: 'https://google.com'
-  image: proofing-basket.jpeg
-  coupon: BREADCODE
-  properties: "26cm x 16cm x 9cm"
+- name: Proofing basket
+  url: "https://thbrco.io/banneton"
+  image: proofing-basket--web.jpeg
+  coupon:
+  properties: 26cm x 16cm x 9cm
+  details:
 
-- name: Helmet
-  url: 'https://google.com'
-  image: proofing-basket.jpeg
-  coupon: BREADCODE
-  properties: "26cm x 16cm x 9cm"
+- name: Cooling rack
+  url: "https://thbrco.io/cooling-rack"
+  image: cooling-rack--web.jpeg
+  coupon:
+  properties:
+  details:
 
-- name: Another sweet tool
-  url: 'https://google.com'
-  image: proofing-basket.jpeg
-  coupon: BREADCODE
-  properties: "26cm x 16cm x 9cm"
+- name: Digital kitchen scale
+  url: "https://thbrco.io/kitchen-scale"
+  image: digital-kitchen-scale--web.jpeg
+  coupon:
+  properties:
+  details:
+
+- name: Dough scraper
+  url: "https://thbrco.io/dough-scraper"
+  image: dough-scraper--web.jpeg
+  coupon:
+  properties:
+  details:
+
+- name: Dutch oven (batards)
+  url: "https://thbrco.io/dutch-oven-batards"
+  image: dutch-oven-batard--web.jpeg
+  coupon:
+  properties:
+  details:
+
+- name: Dutch oven (glass)
+  url: "https://thbrco.io/dutch-oven-glas-lid"
+  image: dutch-oven-glass--web.jpeg
+  coupon: BREADCODE for 5% off
+  properties:
+  details:
+
+- name: Infrared thermometer
+  url: "https://thbrco.io/infared-meter"
+  image: infrared-thermometer--web.jpeg
+  coupon:
+  properties:
+  details:
+
+- name: Loaf pan
+  url: "https://thbrco.io/loaf-pan-regular"
+  image: loaf-pan--web.jpeg
+  coupon:
+  properties: 30cm x 13cm x 12cm
+  details:
+
+- name: Loaf pan (with lid)
+  url: "https://thbrco.io/loaf-pan-lid"
+  image: loaf-pan-lid--web.jpeg
+  coupon:
+  properties: 34cm x 13cm x 12cm
+  details:
+
+- name: Non-stick spray
+  url: "https://thbrco.io/non-stick-spray"
+  image: non-stick-spray--web.jpeg
+  coupon:
+  properties:
+  details: Vegetable based
+
+- name: Oven thermometer
+  url: "https://thbrco.io/oven-thermometer"
+  image: oven-thermometer--web.jpeg
+  coupon:
+  properties:
+  details:
+
+- name: Rolling pin
+  url: "https://thbrco.io/rolling-pin"
+  image: rolling-pin--web.jpeg
+  coupon: BREADCODE for 10% off
+  properties:
+  details:
+
+- name: Lame (olive)
+  url: "https://thbrco.io/scoring-knife-schnittholz"
+  image: lame-olive--web.jpeg
+  coupon:
+  properties:
+  details:
+
+- name: Lame (walnut)
+  url: "https://thbrco.io/scoring-knife-zatoba"
+  image: lame-walnut--web.jpeg
+  coupon: BREADCODE for 10% off
+  properties:
+  details:
+
+- name: Bread knife
+  url: "https://thbrco.io/bread-knife"
+  image: bread-knife--web.jpeg
+  coupon:
+  properties:
+  details: Made in Germany
+
+- name: Starter jars
+  url: "https://thbrco.io/weck-jars"
+  image: starter-jar--web.jpeg
+  coupon:
+  properties:
+  details:

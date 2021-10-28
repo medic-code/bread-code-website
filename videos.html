@@ -1,4 +1,28 @@
 ---
 layout: default
+title: Videos
 ---
 
+<section class="section --videos">
+	<div class="container">
+		<h2 class="section__title">Recommended Videos</h2>
+		<ul class="grid videos">
+			{%- for videos in site.data.videos -%}
+			<li class="videos__item">
+				<figure>
+					<iframe
+						src="{{ videos.source }}"
+						title="YouTube video player"
+						frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+						allowfullscreen
+					></iframe>
+					<figcaption>
+						<p>{{ videos.title }}</p>
+					</figcaption>
+				</figure>
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>

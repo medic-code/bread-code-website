@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;900&family=Ubuntu+Mono&display=swap");
+
+:root {
+	--clr-light: 0 0% 100%;
+	--clr-dark: 0 0% 15.7%;
+	--clr-accent: 209.2 92.7% 62.2%;
+
+	/* source: https://brandcolors.net/ */
+	--clr-discord: 226.7 58.4% 65.1%;
+	--clr-github: 213.8 50.4% 50.2%;
+	--clr-instagram: 339.7 74.7% 53.5%;
+	--clr-reddit: 16.2 100% 50%;
+	--clr-telegram: 200 100% 40%;
+	--clr-tiktok: 178.3 90.4% 55.1%;
+	--clr-twitch: 264.3 100% 63.7%;
+
+	--clr-blog: hsl(var(--clr-light));
+	--clr-web: hsl(var(--clr-light));
+	--clr-newsletter: hsl(var(--clr-light));
+
+	--ff-sans: "Raleway", sans-serif;
+	--ff-mono: "Ubuntu Mono", monospace;
+	--fw-regular: 400;
+	--fw-medium: 500;
+	--fw-bold: 700;
+	--fw-black: 900;
+
+	--util-speed: 100ms;
+	--util-header-height: 4em;
+}
+
+.section {
+	margin-block-start: var(--util-header-height);
+}
+
+.grid {
+	display: grid;
+	grid: auto / repeat(auto-fill, minmax(10em, 1fr));
+	gap: 0.5rem;
+	font-size: 0.875rem;
+
+	figure {
+		img {
+			width: 100%;
+			aspect-ratio: 3 / 2;
+			object-fit: cover;
+			display: block;
+		}
+
+		figcaption {
+			background: hsl(var(--clr-dark));
+			color: hsl(var(--clr-light));
+			padding: 0.5rem;
+
+			@media (min-width: 64.5em) {
+				padding: 1em;
+			}
+
+			p {
+				line-height: 1.5;
+				hyphens: auto;
+				font-size: 0.625rem;
+
+				@media (min-width: 48em) {
+					font-size: 0.75rem;
+				}
+
+				@media (min-width: 64.5em) {
+					font-size: 1rem;
+				}
+			}
+		}
+	}
+
+	@media (min-width: 48em) {
+		grid: auto / repeat(auto-fill, minmax(10em, 1fr));
+		gap: 1em;
+	}
+
+	@media (min-width: 64.5em) {
+		grid: auto / repeat(auto-fill, minmax(15em, 1fr));
+	}
+
+	&.videos {
+		@media (min-width: 48em) {
+			grid: auto / 1fr 1fr;
+		}
+	}
+}
+
+.videos__item {
+
+	figure {
+		
+		iframe {
+			width: 100%;
+			display: block;
+
+			@media (min-width: 48em) {
+				aspect-ratio: 16 / 9;
+			}
+		}
+	}
+}
+
+/* B A D G E S */
+
+li {
+	position: relative;
+
+	.badge {
+		position: absolute;
+		inset-block-start: 0;
+		inset-inline-end: 0;
+		width: 100%;
+		padding: 0.25rem;
+		background: hsl(var(--clr-accent) / 0.8);
+		color: hsl(var(--clr-light));
+		text-align: right;
+		font-weight: var(--fw-medium);
+		font-size: 0.625rem;
+
+		@media (min-width: 48em) {
+			font-size: 0.75rem;
+			padding: 0.5rem;
+		}
+
+		@media (min-width: 64.5em) {
+			font-size: 0.875rem;
+			padding: 0.5rem;
+		}
+	}
+}
+
+// .flour li.--coupon {
+
+// 	&.--bread-flour::after {
+// 		content: '"TheBreadCode" for 5% off'
+// 	}
+
+// 	&.--whole-wheat-flour::after {
+// 		content: '"TheBreadCode" for 5% off'
+// 	}
+// }
+
+// .tools li.--size {
+
+// 	&.--coupon::after {
+// 		content: attr(data-coupon); 
+// 	}
+
+// 	&.--loaf-pan::after {
+// 		content: '30cm x 13cm x 12cm';
+// 	}
+
+// 	&.--loaf-pan-lid::after {
+// 		content: '34cm x 13cm x 12cm';
+// 	}
+// }
+
+// .tools li.--info {
+
+// 	&.--spray::after {
+// 		content: 'Vegetable based';
+// 	}
+
+// 	&.--bread-knife::after {
+// 		content: 'Made in Germany';
+// 	}
+// }
+
+// .tools li.--coupon {
+
+// 	&.--glass::after {
+// 		content: '"BREADCODE" for 5% off';
+// 	}
+
+// 	&.--rolling-pin::after {
+// 		content: '"BREADCODE" for 10% off';
+// 	}
+
+// 	&.--walnut::after {
+// 		content: '"BREADCODE" for 10% off';
+// 	}
+// }

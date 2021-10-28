@@ -1,12 +1,32 @@
 ---
 layout: default
+title: Flour
 ---
 
-<h1>Flour</h1>
+<section class="section --flour">
+	<div class="container">
+		<h2 class="section__title">Flour</h2>
+		<ul class="grid flour">
+			{% for flour in site.data.flour %}
+			<li class="flour__item --size">
+				<a href="{{ flour.url }}" class="flours__link">
+					<figure>
+						<img src="/assets/images/products/flour/{{ flour.image }}" alt="{{ flour.name }}" />
 
-{% for tool in site.data.flour  %}
-<div class="flour">
-    <a href="{{ flour.url }}">{{ flour.name }}</a>
-    <img src="/assets/images/flour/{{ flour.image }}" />
-</div>
-{% endfor %}
+						<figcaption>
+							<p>{{ flour.name }}</p>
+						</figcaption>
+					</figure>
+				</a>
+				{% if flour.coupon %}
+				<p class="badge">{{ flour.coupon }}</p>
+				{% endif %} {% if flour.properties %}
+				<p class="badge">{{ flour.properties }}</p>
+				{% endif %} {% if flour.details %}
+				<p class="badge">{{ flour.details }}</p>
+				{% endif %}
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>

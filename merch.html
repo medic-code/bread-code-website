@@ -1,4 +1,33 @@
 ---
 layout: default
+title: Merch
 ---
 
+<section class="section --merch">
+	<div class="container">
+		<h2 class="section__title">Merch</h2>
+		<ul class="grid merch">
+			{% for merch in site.data.merch %}
+			<li class="merch__item --size">
+				<a href="{{ merch.url }}" class="merch__link">
+					<figure>
+						<img src="/assets/images/products/merch/{{ merch.image }}" alt="{{ merch.name }}" />
+
+						<figcaption>
+							<p>{{ merch.name }}</p>
+						</figcaption>
+					</figure>
+				</a>
+
+				{% if merch.coupon %}
+				<p class="badge">{{ merch.coupon }}</p>
+				{% endif %} {% if merch.properties %}
+				<p class="badge">{{ merch.properties }}</p>
+				{% endif %} {% if merch.details %}
+				<p class="badge">{{ merch.details }}</p>
+				{% endif %}
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>

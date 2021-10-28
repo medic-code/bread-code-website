@@ -1,13 +1,13 @@
-- name: Bread Flour
-  url: 'https://google.com'
-  image: proofing-basket.jpeg
-  coupon: TheBreadCode
-  properties: ""
-  description: "This is an excellent very strong bread flour useful for long fermentation"
+- name: Bread Flour 15%
+  url: https://thbrco.io/mulino-flour
+  image: bread-flour--web.jpeg
+  coupon: TheBreadCode for 5% off
+  properties:
+  # description: "This is an excellent very strong bread flour useful for long fermentation"
 
-- name: Whole Wheat Flour
-  url: 'https://google.com'
-  image: proofing-basket.jpeg
-  coupon: TheBreadCode
-  properties: ""
-  description: "This is an excellent very strong whole wheat flour useful for long fermentation"
+- name: Strong whole wheat
+  url: https://thbrco.io/whole-wheat-flour
+  image: whole-wheat-flour--web.jpeg
+  coupon: TheBreadCode for 5% off
+  properties:
+  # description: "This is an excellent very strong whole wheat flour useful for long fermentation"
