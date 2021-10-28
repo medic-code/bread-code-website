@@ -1,15 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-    {%- include headinclude.html -%}
-    <body>
-    <div class="header">
-      {%- include header.html -%}
-    </div>
-    <div class="content">
-      {%- include posts.html -%}
-    </div>
-    <div class="footer">
-      {%- include footer.html -%}
-    </div>
-    </body>
+	{%- include headinclude_home.html -%}
+	<body>
+		<header>{%- include header.html -%}</header>
+		<!-- über content wird der inhalt des anderen templates hier reingemacht. Du könntest aber auch einfach das überspringen und hier alles direkt zusammenbauen-->
+		<!-- so hatte ich's ja gehabt. nur die section war hier und alles innerhalb dann im template. ok das sieht gut aus.  -->
+		<div class="content">{{ content }}</div>
+		<section class="section --social">{%- include footer.html -%}</section>
+	</body>
 </html>

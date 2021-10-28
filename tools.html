@@ -3,11 +3,30 @@ layout: default
 title: Tools
 ---
 
-<h1>Tools</h1>
+<section class="section --tools">
+	<div class="container">
+		<h2 class="section__title">Tools</h2>
+		<ul class="grid tools">
+			{% for tool in site.data.tools %}
+			<li class="tools__item --size">
+				<a href="{{ tool.url }}" class="tools__link">
+					<figure>
+						<img src="/assets/images/products/tools/{{ tool.image }}" alt="{{ tool.name }}" />
 
-{% for tool in site.data.tools  %}
-<div class="tool">
-  <a href="{{ tool.url }}">{{ tool.name }}</a>
-  <img src="/assets/images/tools/{{ tool.image }}" />
-</div>
-{% endfor %}
+						<figcaption>
+							<p>{{ tool.name }}</p>
+						</figcaption>
+					</figure>
+				</a>
+				{% if tool.coupon %}
+				<p class="badge">{{ tool.coupon }}</p>
+				{% endif %} {% if tool.properties %}
+				<p class="badge">{{ tool.properties }}</p>
+				{% endif %} {% if tool.details %}
+				<p class="badge">{{ tool.details }}</p>
+				{% endif %}
+			</li>
+			{% endfor %}
+		</ul>
+	</div>
+</section>
