@@ -4,17 +4,17 @@ title: "All you need to know: Regular sourdough starter vs. stiff vs. liquid"
 categories: recipe
 description: This contains all the information you need to fully understand the key differences between a regular, a liquid and a stiff sourdough starter.
 author: Hendrik Kleinwächter
-
+intro: In this post you will learn the key differences between different sourdough starters, having a closer look on a regular starter, stiff starter and a liquid starter.
 ---
 
-In this post you will learn the key differences between different sourdough starters, having a closer look on a regular starter, stiff starter and a liquid starter.
-
 # The water amount of each starter is the key difference
+
 A regular starter is typically at a **hydration of 100%**. This means you have equal parts of flour and water in your starter. A liquid starter has a **hydration of 500%** meaning you have 5 times as much
 water as you have flour. A stiff starter (lievito madre) has a **hydration of 50%** meaning you have half the water compared to your flour amount. This is where it gets really crazy,
 just by changing how much water your starter has, you can influence the whole fermentation process and thus the final taste of your bread. Let me explain.
 
 # The microorganisms of your starter
+
 Sourdough starters contain wild yeast and bacteria. The yeast is creating ethanol and CO2, the bacteria creates lactic acid and acetic acid (also sometimes CO2 and ethanol). You have homofermentative bacteria and heterofermentative bacteria. This is fancy term for bacteria that can change what they eat and what they ultimately produce during the fermentation activity (aka. POOP). CO2 makes your bread fluffy and ethanol induces alcoholic taste. However, that mostly boils during the baking process. The **lactic acid creates you dairy notes, the acetic acid vinegary notes.**
 
 By adding water to your flour the amylase enzyme is activated. Amylase converts starch into smaller
@@ -32,10 +32,10 @@ To suppress the vinegary notes you need to deprive your starter of oxygen. Aceti
 
 Here's a quick summary of the different starters and their flavor:
 
-|#| Liquid starter | Regular starter | Stiff starter |
-|----------|-----------------|------------------------|-------------------------------------|
-|Flavor | Dairy           | Vinegary or dairy, or both | Vinegary or dairy, or both but more mild |
-|Microorganisms| Favors bacteria | Bacteria and yeast         | Favors yeast                              |
+| #              | Liquid starter  | Regular starter            | Stiff starter                            |
+| -------------- | --------------- | -------------------------- | ---------------------------------------- |
+| Flavor         | Dairy           | Vinegary or dairy, or both | Vinegary or dairy, or both but more mild |
+| Microorganisms | Favors bacteria | Bacteria and yeast         | Favors yeast                             |
 
 Depending on where your stiff starter is coming from the taste can be either slightly dairy, slightly vinegary or both. So in case you are a chaser of the pure mild dairy flavor consider converting your starter to a liquid starter before.
 
@@ -94,4 +94,4 @@ I just wanted to quickly write this post down. I will be adding sources for ever
 
 1. Bakery Products Science and Technology. Y.H Hui et al.
 2. Handbook on sourdough biotechnology. Gobbetti et al.
-3. Highly Efficient Gluten Degradation by Lactobacilli and Fungal Proteases during Food Processing: New Perspectives for Celiac Disease.  Carlo G. Rizzello et al.
+3. Highly Efficient Gluten Degradation by Lactobacilli and Fungal Proteases during Food Processing: New Perspectives for Celiac Disease. Carlo G. Rizzello et al.

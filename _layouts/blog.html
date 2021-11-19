@@ -1,0 +1,41 @@
+---
+layout: blog
+title: blog
+---
+
+<!DOCTYPE html>
+<html lang="en">
+	{%- include headinclude_blog.html -%}
+	<body>
+		<header>{%- include header.html -%}</header>
+		{{ content }}
+	</body>
+</html>
+
+<!-- muss ich dann alles aus der anderen blog.html rauskopieren? -->
+<!-- 
+
+		hier in diese seite bei content wird alles aus der anderen blog.html reingeschrieben. ginge theoretisch, aber so ist es besser.
+
+		das layout sollte eher wenig code haben würde ich sagen :-) 
+
+		ok
+		
+		guck nochmal andere datei. welche? 
+
+		hmmmmmmmmmmm 
+
+		ah doch, ist nur nicht sichtbar dagobert. aber der ist im source html :) 
+
+		was für dagobert, lol aso, ja deswegen mein css, der margin top fehlt
+
+		okay jetzt hast du dein individuelles layout für den blog.#
+
+		jetzt können wir ein eigenes headinclude hier definieren mit eigenen css dateien.
+
+		siehe blogHeader.html
+
+		kk. ich habs nur mal umbenannt, damit das es passt. headinclude_blog. dann einfach hier oben einbauen :-) wo aktuell headinclude steht
+
+		jetzt ist aber die navigation kaputt
+-->
