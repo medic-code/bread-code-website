@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;900&family=Ubuntu+Mono&display=swap');
 
+body {
+ //background-color: pink !important;
+//  ich glaube da müssen beide stylesheets geladen werden, kann mich nicht mehr erinnern okay auf in die headinclude
+}
+
 :root {
 	--clr-light: 0 0% 100%;
 	--clr-dark: 0 0% 15.7%;
@@ -17,7 +22,7 @@
 
 	--clr-blog: hsl(var(--clr-light));
 	--clr-web: hsl(var(--clr-light));
-	--clr-newsletter: hsl(var(--clr-light));
+	--clr-newsletter: hsl(var(--clr-light)); 
 
 	--ff-sans: 'Raleway', sans-serif;
 	--ff-mono: 'Ubuntu Mono', monospace;

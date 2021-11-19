@@ -8,84 +8,8 @@ title: Blog
 <section class="section hero">
 	<div class="container">
 		<div class="hero__body">
-			<!-- text importieren mag nicht
-					sollte eigtl. aus der hero.yml kommen
-					
-					ah. site.hero dann geht es :-)
-
-				 nö
-
-				 hmmmmm
-
-				 pensi123
-
-				 mal gucken
-
-				 evtl. erst mal das scss compilieren lassen?
-				 ist auch ein problem
-
-				 benötige meine margins. evtl ist der text außerhalb des viewports
-
-				 for flour in site.data.flour
-
-				 so war das bei flour. also nur noch site.data davorschreiben
-
-					so oder was?
-					geht auchnicht
-
-					schau in den live server, das kann nicht stimmen
-
-					okay das problem ist guck mal in den live
-
-					site.data.hero ist richtig, aber das ist ein dings mit mehreren einträgen
-
-					jetzt nicht mehr. diese syntax wie bei flour.yml nutzt du um mehrere anzugeben
-
-
-				aaah, jetzt
-			
-
-				ist übrigens gut wie du es so gemacht hast, weil, so kann man in zukunft theoretisch das ganze mehrsprachig machen :-D
-
-				war ja meine absicht /S
-
-				xD
-
-				ok, das css kurz? jo
-
-				sind 2 stück: 1x blog haupt seite, 1x artikel
-
-				benötigst du das terminal? ja wäre super das zu sehen
-
-				wie war der befehl im ubuntu terminal tmate
-
-				muss ich den server wieder stoppen dafür?
-				kann nix eingeben
-
-				ah ja. ctrl + c, machen wir wieder auf gleich
-
-				welcher ssh war das nochmal?
-
-				so z.b. ssh session: ssh jRR35XRQTRwvUPTjMbazDKCmM@lon1.tmate.io
-
-				ssh session: ssh 2mPpvQYYE6aPPkArPmVV6SU3F@lon1.tmate.io
-
-				okay.#
-				
-				du hast für den blog eine neue seite angelegt. das ist top. diese neue seite soll schon ein eigenes CSS haben, richtig?
-
-				ja. bis auf die navbar die hab ich aber da mit rein kopiert.#
-				
-				okay, wir brauchen ein neues layout für die seite, sonst geht das nicht. aktuell wird das "default" layout verwendet.
-
-				hab ich schon mal (fruchtlos) versucht. okay copy paste mal die _layouts/default.html auf _layouts/blog.html
-
-				okay. jetzt geh mal auf die seite blog.html nicht das layout. ah da sind wir ja :-d
-
-				jetzt musst du oben das layout auf "blog" ändern
-			-->
-			<p class="hero__text">{{ site.data.hero.title }}</p>
-			<h1 class="hero__title code">{{ site.data.hero.text }}</h1>
+			<p class="hero__text">{{ site.data.hero.text }}</p>
+			<h1 class="hero__title code">{{ site.data.hero.title }}</h1>
 		</div>
 	</div>
 </section>
@@ -133,15 +57,17 @@ title: Blog
 		</div>
 
 		<div class="years">
-			{% for post in site.posts offset: 1 %}
+			{% assign olderPosts = site.posts | shift %} {% assign postsByYear = olderPosts | group_by_exp:"post", "post.date | date: '%Y'" %} {% for year
+			in postsByYear %}
 			<div class="year">
-				<!-- jahreszahl woher? -->
-				<h4 class="year__title"></h4>
+				<h4 class="year__title">{{ year.name }}</h4>
+				{% for post in year.items %}
 				<div class="entry">
 					{%- assign date_format = "%b %-d, %Y" -%}
 					<p class="entry__date">{{ post.date | date: date_format }}</p>
 					<a href="{{ post.url | relative_url }}" class="entry__link">{{ post.title }}</a>
 				</div>
+				{% endfor %}
 			</div>
 			{% endfor %}
 		</div>

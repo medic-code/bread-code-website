@@ -1,86 +1,50 @@
----
-layout: default
-title: post
----
+<!-- ok anscheinend hat man für posts immer ein layout mit dem namen "post" 
 
-<!-- <h1>{{ page.title | escape }}</h1>
 
-<div class="post-content">{{ content }}</div> -->
+	ok, scheint zu stimmen jetzt
+	
+	eventuell brauchst du dann noch andere headinclude oder?
 
-<div class="back" id="top">
-	<div class="container">
-		<a href="../index.html#latest" class="backBtn post__btn">&larr; Back</a>
-	</div>
-</div>
+	in den content kram wird dann der HTMl jedes einzelnen posts eingebaut.
 
-<article class="fullPost">
-	<div class="container">
-		<h1 class="fullPost__title">{{ post.title }}</h1>
+	hmm, das war nix mit headinclude_blog
 
-		<div class="author">
-			<p class="author__name">{{ post.author }}</p>
-			<p class="date">{{ post.date | date: date_format }}</p>
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+	{%- include headinclude_blog_detail.html -%}
+	<body>
+		<header>{%- include header.html -%}</header>
+		<div class="back" id="top">
+			<div class="container">
+				<a href="/blog.html#latest" class="backBtn post__btn">&larr; Back</a>
+			</div>
 		</div>
+		<article class="fullPost">
+			<div class="container">
+				<h1 class="fullPost__title">{{ page.title }}</h1>
 
-		<p class="first">{{ post.intro }}</p>
+				{%- assign date_format = "%b %-d, %Y" -%}
+				<div class="author">
+					<p class="author__name">{{ page.author }}</p>
+					<p class="date">{{ page.date | date: date_format }}</p>
+				</div>
 
-		<figure>
-			<img src="/assets/images/blog/{{ post.img }}" alt="{{ post.img }}" class="post__image" />
-			<figcaption>
-				<p>(thanks to @Wukong from our discord for the image)</p>
-			</figcaption>
-		</figure>
+				<p class="first">{{page.intro}}</p>
+				<!-- nope :P grid layout deshalb ist die h1 so rechts. jo-->
 
-		<h2 class="fullPost__subtitle">Bacteria and yeast should be in a balance</h2>
-		<p>
-			You normally have a balance of fungus (yeast) and bacteria in your starter. If your starter catches mold it might be that something is off in
-			your balance. By feeding your starter again you will probably always continue to grow mold passively. It’s always still there. But….
-		</p>
-		<h2 class="fullPost__subtitle">Mold likes oxygen</h2>
-		<p>
-			<a href="#!" class="inside-link">Mold is aerobic and needs to have oxygen</a>. That’s why you will most likely see mold on the top of your
-			sourdough starter. An environment where you have no oxygen will help to prevent mold from growing.
-		</p>
-		<h2 class="fullPost__subtitle">Acidity preserves food</h2>
-		<p>
-			If you look at pickled vegetables or Sauerkraut, acidity is a way to preserve food. The acidity makes sure that no external patho-gens can enter
-			this hostile environment. So a very sour sourdough starter will very likely also destroy your mold
-		</p>
-		<h2 class="fullPost__subtitle">The solution</h2>
-		<p>
-			In a previous video I was trying to make a <a href="#!" class="inside-link">sourdough bread with the help of fruit flies</a>. In between I
-			noticed that there was some mold gathering on top of my starter. Some viewers pointed out it might also have been Kahm yeast. But I wasn’t so
-			sure. So what I did was the following.
-		</p>
-		<ol>
-			<li>Take a tiny bit of the starter where I see no mold (5g)</li>
-			<li>Mix those 5g with another 10g of flour and 50g of water</li>
-			<li>After some time you will see that the flour/starter mixture sits near the bottom</li>
-			<li>Your starter will be covered in water</li>
-			<li>After 2 days try to remove the top liquid part of your starter, take a bit of what’s close to the bottom</li>
-			<li>Take 1g for instance, then mix again with 10g of flour and 50g of water</li>
-			<li>Repeat another 2 iterations</li>
-		</ol>
-		<p>
-			We are doing 2 hacks here. By letting our starter sit for a longer period of time we are increasing the acidity. Which will be a bad environment
-			for your mold. Furthermore we are create anaerobic (no air) conditions which the mold also does not appreciate at all. By then repeating the
-			process a few times we are slowly killing all remaining mold fungi. You will likely still have a few spores left so that the mold in theory
-			could grow again. That’s why I recommend that you make sure to make your starter quite sour. The more sour the more likely it is that all
-			pathogens other than your sourdough microorganisms are killed. before you move it back to the fridge. Just let it sit for 24 hours at room
-			temperature for instance.
-		</p>
-		<h2 class="fullPost__subtitle">Closing words</h2>
-		<p>
-			<span class="bold">Please note that I am no doctor and this is not medical advice.</span> If you want to be 100% sure then start a new starter.
-			Although this has worked for me before (and the science makes sense)
-		</p>
-	</div>
-</article>
+				<!-- in meiner demo ist doch auch alles hier im .container aber irgendwie ist jetzt auch mehr inhalt auf der eigentlichen seite wenn ich die im browser lade. mehr als in der markdown-->
+				{{ content }}
+			</div>
+		</article>
 
-<div class="up">
-	<div class="container">
-		<a href="#top" class="backToTop">Back to top &uparrow;</a>
-	</div>
-</div>
+		<div class="up">
+			<div class="container">
+				<a href="#top" class="backToTop">Back to top &uparrow;</a>
+			</div>
+		</div>
+	</body>
+</html>
 
 <footer></footer>
