@@ -1,16 +1,3 @@
-<!-- ok anscheinend hat man für posts immer ein layout mit dem namen "post" 
-
-
-	ok, scheint zu stimmen jetzt
-	
-	eventuell brauchst du dann noch andere headinclude oder?
-
-	in den content kram wird dann der HTMl jedes einzelnen posts eingebaut.
-
-	hmm, das war nix mit headinclude_blog
-
--->
-
 <!DOCTYPE html>
 <html lang="en">
 	{%- include headinclude_blog_detail.html -%}
@@ -32,9 +19,7 @@
 				</div>
 
 				<p class="first">{{page.intro}}</p>
-				<!-- nope :P grid layout deshalb ist die h1 so rechts. jo-->
 
-				<!-- in meiner demo ist doch auch alles hier im .container aber irgendwie ist jetzt auch mehr inhalt auf der eigentlichen seite wenn ich die im browser lade. mehr als in der markdown-->
 				{{ content }}
 			</div>
 		</article>
@@ -44,7 +29,7 @@
 				<a href="#top" class="backToTop">Back to top &uparrow;</a>
 			</div>
 		</div>
+
+		{%- include blogFooter.html -%}
 	</body>
 </html>
-
-<footer></footer>

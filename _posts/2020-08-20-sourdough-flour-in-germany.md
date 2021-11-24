@@ -5,11 +5,14 @@ categories: tutorial
 author: Hendrik Kleinwächter
 description: This is a small guide on shopping excellent bread flour for your sourdough in Germany.
 permalink: "/tutorial/2020/08/20/sourdough-flour-in-germany.html"
+
+img:
+imgCaption:
+
+intro: I have been asked many times which flour you should be using for baking sourdough in Germany. In many tutorials you see people using bread flour for instance. It's a great flour as it typically has a higher gluten content.
 ---
 
-I have been asked many times which flour you should be using for baking sourdough in Germany. In many tutorials you see people using bread flour for instance. It's a great flour as it typically has a higher gluten content.
-
-# The different flours in Germany
+## The different flours in Germany
 
 Some suggest to use T812 flour as bread flour, but this is a myth. This is not bread flour. The type indicates how many minerals remain in mg after burning 100 grams of the flour. So a T550 would have 550mg left, a T812 812mg and so on. `Vollkorn` has no label as it is the pure grain. The problem with German flours is the lack of sun. This means that the wheat naturally doesn't develop as much gluten. Germany is a rye country, but not a wheat country. The flour that you want to use from Germany is typically a T550, or a T405 for white style bread. But - as mentioned before, it's not as high in protein content as a similar flour from Italy for instance.
 
@@ -17,7 +20,7 @@ The % protein directly influences how much water you should be using for your fl
 
 You can also tweak your German flour buy mixing in a little bit of vital wheat gluten. I recommend to add around 5g of wheat gluten per 100g of flour. Make sure to mix the flour thoroughly.
 
-# Recommended flour
+## Recommended flour
 
 Mulino Padano (delivers in EU, from Italy). My favorite one is definitely the ["Star" flour.](https://thbrco.io/mulino-flour) It has superb strength and allows you to build very hydrated doughs. Feel free to use "TheBreadCode" for 5% off.
 

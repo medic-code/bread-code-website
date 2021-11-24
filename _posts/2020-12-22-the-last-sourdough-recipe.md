@@ -5,9 +5,12 @@ categories: recipe
 author: Hendrik Kleinwächter
 description: This is the best and most complete sourdough bread recipe you ever need, consistently rewarding you with world class beautiful and tasty sourdough bread every time.
 
+img:
+imgCaption:
+
+intro: This is the best and most complete sourdough bread recipe you ever need, consistently rewarding you with world class beautiful and tasty sourdough bread every time.
 ---
 
-This is the best and most complete sourdough bread recipe you ever need, consistently rewarding you with world class beautiful and tasty sourdough bread every time.
 Everything is done from scratch, explained in detail, easy for you to follow leaving no questions unanswered.
 This masterclass looks at the recipe as well as the why behind it.
 That way you know how to adapt when things go sideways. The [original class can be found as a video on my YouTube channel](https://www.youtube.com/watch?v=NMglhwp2lNs).
@@ -16,28 +19,27 @@ Please note this is only for wheat based breads with more than 80% wheat.
 [![The final sourdough bread](/assets/images/recipes/last-sourdough-recipe-1.jpg)](/assets/images/recipes/last-sourdough-recipe-1.jpg)
 
 I am assuming that you want to bake the sourdough bread in the morning to have it ready for breakfast.
-This recipe assumes that you want to have the dough ready on Saturday morning. 
+This recipe assumes that you want to have the dough ready on Saturday morning.
 You might have to adjust the days depending on when you actually want it ready.
 
 [![The full process as a float chart](/assets/images/recipes/last-sourdough-recipe-full-process.jpg)](/assets/images/recipes/last-sourdough-recipe-full-process.jpg)
 
 ## Ingredients
 
-
-* 400g bread flour (> 10% protein), in German take T550
-* 100g whole wheat flour
-* 275-350g water (see below)
-* 100g active sourdough starter (20%)
-* 10g salt (2%)
+- 400g bread flour (> 10% protein), in German take T550
+- 100g whole wheat flour
+- 275-350g water (see below)
+- 100g active sourdough starter (20%)
+- 10g salt (2%)
 
 Note - the more protein your flour has, the more water you can use. This is crucial as you might bake a frisbee in case you overdo it.
 
 | Flour % Protein | % Hydration (bakers math) | Grams water absolute for 500g flour |
-|-----------------|------------------------|-------------------------------------|
-| < 10            | 55                     | 275                                 |
-| 10-12           | 60                     | 300                                 |
-| 13-14           | 65                     | 325                                 |
-| > 15            | 70                     | 350                                 |
+| --------------- | ------------------------- | ----------------------------------- |
+| < 10            | 55                        | 275                                 |
+| 10-12           | 60                        | 300                                 |
+| 13-14           | 65                        | 325                                 |
+| > 15            | 70                        | 350                                 |
 
 ## Instructions
 
@@ -45,8 +47,7 @@ The key to making great sourdough bread is to controll the fermentation process.
 This is the one parameter that you need to understand and master, the rest is just 20%.
 That's why you want to make sure to have a healthy and active sourdough starter.
 
-
-### Readying the sourdough starter
+## Readying the sourdough starter
 
 Your sourdough should be able to double in size within 5-10 hours after a feeding at room temperature.
 If it does, then perfect. If not, consider feeding your starter with the below shown process.
@@ -58,15 +59,13 @@ Note the 1:5:5 in the image means, 10 grams of sourdough starter, 50 grams of fl
 You want to be feeding ideally whole rye, or whole wheat flour. This will make a more active
 sourdough starter.
 
-
-### Autolyse
+## Autolyse
 
 - Mix flour and water, fully hydrating flour
 - Let it rest at room temperature over night
 - Make sure that there are no crumbly parts of flour left.
 
-
-### Bulk fermentation
+## Bulk fermentation
 
 In the morning on Friday you want to mix everything together. This starts
 the **bulk fermentation** stage. Bulk since you could actually be doubling
@@ -85,8 +84,8 @@ This makes sure the gluten network forms again after we damaged it while adding 
 1. Now remove the dough and place it on your bench (no flour!)
 2. Extract a small sample from the dough and place it in a cylindric shaped container.
 3. A shot glass works, or anything else that has a cylindric shape.
-This sample will tell us exactly when the dough is done bulk fermenting. Mark the dough
-with a rubber band or a marker. This way we can see the size increase.
+   This sample will tell us exactly when the dough is done bulk fermenting. Mark the dough
+   with a rubber band or a marker. This way we can see the size increase.
 
 Next up we [want to create dough strength.](https://www.youtube.com/watch?v=wHL44ONu3so). There are multiple ways we
 can do that, however for this recipe we will be doing a set of bench kneading only. The higher
@@ -119,21 +118,19 @@ Over time the gluten is damaged by the acid produced by sourdough
 resulting in a weaker gluten network. You'll notice that for instance
 if your dough was nice and round and then suddenly it's very sticky.
 
-
 | Flour % Protein | % Size increase |
-|-----------------|------------------------|
-| < 10            | 10-20                     |
-| 10-12           | 20-40                     |
-| 13-14           | 40-70                     |
-| > 15            | 70-110                     |
-
+| --------------- | --------------- |
+| < 10            | 10-20           |
+| 10-12           | 20-40           |
+| 13-14           | 40-70           |
+| > 15            | 70-110          |
 
 While your dough is bulk fermenting, you can be doing a stretch and fold
 every few hours. Typically when you see your dough has flattened out quite a lot.
 However, the more you touch your dough, the more even your crumb is going to be in the end.
 
-
 Coil folding is a great way to stretch and fold and every gentle on the dough:
+
 - Slightly wet hands with cold water
 - Release dough from sides of container
   1. Use a very light touch; the less you touch the dough the better
@@ -144,9 +141,8 @@ This can take anywhere between 4 and 12 hours. [Check out this table that shows 
 Please also take this with a grain of salt, as this might differ depending on your starter and other issues.
 The sample is the single best way to check your fermentation progress.
 
+## Shaping the dough
 
-### Shaping the dough
-  
 Your dough should look bubbly. Proceed and shape when your sample
 has reached the desired size increase. A tight shaping is essential
 to then allow your dough to spring in the oven. At the same time
@@ -162,7 +158,6 @@ you have to be careful to not deflate your dough too much.
   1. Pinch bottom seam together, for more tension (for boule)
 - Lightly sprinkle flour over top (and rice flour along sides of banneton, to prevent sticking)
 - [See the full video on shaping the dough](https://youtu.be/NMglhwp2lNs?t=1558)
-
 
 ## Proofing stage
 
@@ -182,8 +177,7 @@ And then if you opt for the fridge option, do it like this:
 
 [![This is the whole process using a fridge](/assets/images/recipes/last-sourdough-recipe-proofing-process-fridge.jpg)](/assets/images/recipes/last-sourdough-recipe-proofing-process-fridge.jpg)
 
-
-### Baking
+## Baking
 
 Baking is then the last stage where everything comes together. You can either bake using a dutch oven, or using a tray and/or a stone.
 Make sure that the baking medium is preheated, as this makes sure that you have more oven spring.
@@ -192,7 +186,7 @@ Make sure that the baking medium is preheated, as this makes sure that you have 
 - If using Dutch oven, heat it in the oven for about 30 min. (lid separated)
 - If baking on sheet or stone, heat stone and sheet while heating oven
   1. Also heat the container (e.g. cast iron skillet) at the bottom of the oven to use to create steam)
-  2. Place inverted baking tray (with sides) on uppermost rack of oven after putting in bread, to catch the steam. At 30 min., remove this tray and the water container 
+  2. Place inverted baking tray (with sides) on uppermost rack of oven after putting in bread, to catch the steam. At 30 min., remove this tray and the water container
 - Gently turn dough out of banneton onto parchment, or directly into hot dutch oven (careful!)
 - Score dough to control where you will have oven spring. This takes a few attempts. You can practice this when you initially kneaded and made a smooth ball.
 - Place in Dutch oven or on baking stone or sheet

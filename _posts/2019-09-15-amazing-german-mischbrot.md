@@ -4,13 +4,11 @@ title: "How To Make an Amazing German Mischbrot"
 categories: recipe
 author: Hendrik Kleinwächter
 description: This is how you make an amazing German Mischbrot, also known as Graubrot.
+
+intro: Historically in Germans have eaten a lot of rye. Rye is more resistant to cold and yields better crop with the German climate. Rye is planted in September/October and then survives the winter. It can resist temperatures of up to -25°C.
 ---
 
-# German Mischbrot aka. Graubrot
-
-Historically in Germans have eaten a lot of rye. Rye is more resistant to cold
-and yields better crop with the German climate. Rye is planted in September/October
-and then survives the winter. It can resist temperatures of up to -25°C.
+## German Mischbrot aka. Graubrot
 
 Thus many German breads contain rye and also a little bit of wheat. Because
 of that we call this bread `Mischbrot`. Which literally means mixture bread.
@@ -31,13 +29,13 @@ to 40% starter overall, having 20% active starter and 20% old discard starter.
 ![Picture of Mischbrot](/assets/images/recipes/mischbrot-1.jpg)
 ![Picture of 2 different scoring techniques](/assets/images/recipes/mischbrot-2.jpg)
 
-
 ## Ingredients
-* 250 grams of rye flour (50%)
-* 250 grams of wheat flour (50%)
-* 100 grams of sourdough starter (20%)
-* 325 grams of warm water (65%)
-* 10 grams of salt (2%)
+
+- 250 grams of rye flour (50%)
+- 250 grams of wheat flour (50%)
+- 100 grams of sourdough starter (20%)
+- 325 grams of warm water (65%)
+- 10 grams of salt (2%)
 
 ## Instructions
 
@@ -48,18 +46,18 @@ to 40% starter overall, having 20% active starter and 20% old discard starter.
 2. Place it in a covered bowl.
 
 3. Let it ferment at room temperature for around 10 hours. In my case
-the room has around 22°C. If it is colder, it might take longer.
-If warmer, less time. Changing this variable will increase the sourness of the
-final bread. This is personal preference. More sour bread will also have a
-longer shelf life.
+   the room has around 22°C. If it is colder, it might take longer.
+   If warmer, less time. Changing this variable will increase the sourness of the
+   final bread. This is personal preference. More sour bread will also have a
+   longer shelf life.
 
 4. Flour the surface with a lot of flour.
 
 5. Take the dough and place it on the flour
 
 6. Try to form a little bit of a ball. Don't worry, it will not fully hold
-together. That's because of rye flour. Rye flour does not form a good gluten
-network.
+   together. That's because of rye flour. Rye flour does not form a good gluten
+   network.
 
 7. Place it in a rice-flowered banneton. Don't save on the flour. You do not
    want it to stick together.
@@ -68,17 +66,17 @@ network.
    around 5°C.
 
 9. We will be baking the bread in a dutch oven. You could also just place it
-directly on a stone in the oven. Then you would need a tray of water in the
-oven as water source though.
+   directly on a stone in the oven. Then you would need a tray of water in the
+   oven as water source though.
 
 10. Flip the bread into pre-heated dutch oven, or on the stone.
 
-12. Not required, but helping oven spring - score the bread with a sharp knife.
-You can be creative about the scoring pattern. I like to do a swirl.
+11. Not required, but helping oven spring - score the bread with a sharp knife.
+    You can be creative about the scoring pattern. I like to do a swirl.
 
-13. Bake for 25 minutes with lid covered and 20 minutes without the lid.
-I bake at 230°C. Your oven might work differently. Wait until the crust has a
-nice brown color.
+12. Bake for 25 minutes with lid covered and 20 minutes without the lid.
+    I bake at 230°C. Your oven might work differently. Wait until the crust has a
+    nice brown color.
 
 13. Brush of any excess flour.
 

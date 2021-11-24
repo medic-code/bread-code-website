@@ -4,15 +4,18 @@ title: "The Last Sourdough Starter Recipe You Ever Need"
 categories: recipe
 author: Hendrik Kleinwächter
 description: This is how you make a top class sourdough starter very easily in just a few days.
+
+img:
+imgCaption:
+
+intro: Sourdough is an excellent way to make your bread more fluffy. At the same time the taste becomes a little sour adding excellent flavor to the bread.
 ---
 
-# Make your own sourdough
+## Make your own sourdough
 
 ![Some yummy rye breads. But you can also bake every other bread with sourdough](/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg)
 
-Sourdough is an excellent way to make your bread more fluffy.
-At the same time the taste becomes a little sour adding excellent flavor
-to the bread. A welcome side effect is that you can eat your bread for a
+A welcome side effect is that you can eat your bread for a
 longer period of time as it does not catch mold as fast as yeast-only bread.
 [This is because of the antibiotic ingredients.](http://news.bbc.co.uk/2/hi/science/nature/881477.stm)
 Good news, it is really easy to make your own sourdough.
@@ -30,10 +33,10 @@ Water and Salt.
 
 Just to be fully transparent, this is about the time that it will take you to
 complete your sourdough:
-* The whole process will take you 7 days with around 2 minutes of time per day.
-* That means you will spend only 14 minutes in total to have your own sourdough ready.
-* I like to call this dough the mother dough, as it is the mother of all my doughs.
 
+- The whole process will take you 7 days with around 2 minutes of time per day.
+- That means you will spend only 14 minutes in total to have your own sourdough ready.
+- I like to call this dough the mother dough, as it is the mother of all my doughs.
 
 Nowadays bakeries add artificial yeast to the dough. The sourdough itself is a
 little unstable in handling and requires more work. Overtime the bread becomes
@@ -49,7 +52,7 @@ crunchy. But typically they do not have a large open crumb. If you attempted
 to bake them like a bread you would end up with a large big brick.
 
 Have you ever wondered why at some point your food suddenly starts
-having mold all around?  It's because there is natural yeast and other bacteria
+having mold all around? It's because there is natural yeast and other bacteria
 in the air. When setting up a sourdough we want to trap as much of this
 natural yeast and bacteria inside of our dough.
 The bacteria releases lactic acid when digesting the flour, and the
@@ -58,7 +61,7 @@ The dough gives the bacteria and yeast a really amazing place to live, and they 
 As a baker, it is your job to ensure that they feel happy and enjoy their home.
 
 The quantities of yeast and bacteria in the air is minimal and thus it
-takes some time to gather large quantities in your dough.  That's why your
+takes some time to gather large quantities in your dough. That's why your
 first sourdough can take up to a week until significant yeast/bacteria has
 entered your dough and reproduced. The flour that you use for your initial
 seed dough is also important. Full-grain flour is what you want, because
@@ -67,14 +70,14 @@ work best as it has more yeast naturally on the hull than other grains.
 
 ## Requirements
 
-* 400 grams of full grain wheat flour (Look for flour with Whole in the word like Wholemeal or Wholegrain)
-* You can also take rye, spelt or whatever full grain flour you have available.
+- 400 grams of full grain wheat flour (Look for flour with Whole in the word like Wholemeal or Wholegrain)
+- You can also take rye, spelt or whatever full grain flour you have available.
   Don't worry too much, you can later on feed your mother dough with rye to make it more ryish.
   It's just about getting a nice and yummy place for the bacteria and yeast.
 
 ## Instructions
 
-### Day 1
+## Day 1
 
 Take a big bowl and add exactly 100 grams of water and 100 grams of flour.
 Make sure you stir everything nicely. You want a homogeneous mixture of dough and water.
@@ -95,7 +98,7 @@ Regardless, just stick to the 7 day strategy and you will be fine.
 
 ![Use full grain flour](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg)
 
-### Day 2
+## Day 2
 
 Add another 50 grams of flour and 50 grams of warm water. Stir everything.
 Cover the dough with plastic wrap, not airtight. Just a little a bit. We have
@@ -104,27 +107,27 @@ our seed bacteria and yeast to reproduce.
 
 ![Add together the water and flour](/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg)
 
-### Day 3
+## Day 3
 
 Add another 50 grams of flour and 50 grams of water. Stir everything.
 
-### Day 4
+## Day 4
 
 Add another 50 grams of flour and 50 grams of water. Stir everything.
 
-### Day 5
+## Day 5
 
 Add another 50 grams of flour and 50 grams of water. Stir everything.
 
-### Day 6
+## Day 6
 
 Add another 50 grams of flour and 50 grams of water. Stir everything.
 
-### Day 7
+## Day 7
 
 Add another 50 grams of flour and 50 grams of water. Stir everything.
 
-### Day 8
+## Day 8
 
 You are done 🎉. You are ready to bake your first bread with your own sourdough.
 When not needing the mother dough, cover it with some foil and place it in your fridge.
@@ -200,9 +203,8 @@ This is what it looked like from the inside:
 
 If you don't feed your mother dough it will eventually starve as it has no more food.
 Don't worry, my mother dough survived for 4 weeks in the fridge.
-You are not forced to bake every weekend.  Some liquid may gather on top of your
+You are not forced to bake every weekend. Some liquid may gather on top of your
 mother dough, that's usually lactic acid and a good amount of alcohol.
 Just remove that, feed your dough again and you should be good.
-
 
 Please also check out my [full YouTube tutorial on how to make the starter.](https://youtu.be/ZTHHI0iuamA)

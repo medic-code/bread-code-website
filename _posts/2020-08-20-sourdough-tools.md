@@ -4,11 +4,14 @@ title: "Don't miss those Sourdough Tools"
 categories: tutorial
 author: Hendrik Kleinwächter
 description: Don't miss those tools that you need for sourdough baking, they'll make you a better baker.
+
+img:
+imgCaption:
+
+intro: Don't miss those sourdough tools. They have all been tested by me in day to day use and work great.
 ---
 
-Don't miss those sourdough tools. They have all been tested by me in day to day use and work great.
-
-# Tools
+## Tools
 
 Banneton proofing basket (25cm length, 15cm width, 8.5cm height): <https://thbrco.io/banneton>
 
@@ -34,7 +37,7 @@ pH meter to check acidity: <https://thbrco.io/ph-meter>
 
 Weck starter jars: <https://thbrco.io/weck-jars>
 
-# Merchandise
+## Merchandise
 
 If you want to support me also check out some of my custom designed bread baking T-Shirts: <https://the-bread-code.myteespring.co/>
 

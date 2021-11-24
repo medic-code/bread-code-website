@@ -3,8 +3,6 @@ layout: blog
 title: Blog
 ---
 
-<!-- hier oben einmal das layout ändern. so sagen wir ihm, pack diesen inhalt in das layout mit dem namen blog -->
-
 <section class="section hero">
 	<div class="container">
 		<div class="hero__body">
@@ -23,14 +21,14 @@ title: Blog
 
 		{% for post in site.posts limit: 1 %}
 		<div class="post">
-			{% if post.img %}
 			<figure>
 				<img src="/assets/images/blog/{{ post.img }}" alt="{{ post.img }}" class="post__image" />
+				{% if post.imgCaption %}
 				<figcaption>
 					<p>{{post.imgCaption}}</p>
 				</figcaption>
+				{% endif %}
 			</figure>
-			{% endif %}
 
 			<article>
 				{%- assign date_format = "%b %-d, %Y" -%}
@@ -40,6 +38,7 @@ title: Blog
 				</div>
 				<div class="post__body">
 					<h2 class="post__title">{{ post.title }}</h2>
+					
 					<p class="post__snippet">{{ post.intro }}</p>
 					<a href="{{ post.url | relative_url }}" class="post__btn">Read more &rarr;</a>
 				</div>
@@ -74,15 +73,4 @@ title: Blog
 	</div>
 </section>
 
-<footer>
-	<div class="container">
-		<div class="copyright">
-			<a href="https://blog.the-bread-code.io/about.html" class="about__link">Hendrik aka. The Bread Code</a>
-			<a href="https://www.the-bread-code.io/contact.html" class="contact">
-				<i class="fas fa-envelope"></i>
-				<p>Contact me</p>
-			</a>
-		</div>
-		<p>Design and code by @CodeNascher - 2021</p>
-	</div>
-</footer>
+{%- include blogFooter.html -%}
