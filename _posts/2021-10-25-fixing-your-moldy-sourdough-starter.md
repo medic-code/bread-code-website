@@ -14,26 +14,24 @@ imgCaption: Thanks to @Wukong from our discord for the image
 intro: Mold is the worst enemy of your sourdough starter. Many people advise to throw the starter away and create another one from scratch. There might be another way because throwing an old starter away can be quite emotional for bakers.
 ---
 
+<div><img src="/assets/images/blog/moldy-starter.jpg" alt="Moldy starter" /></div>
 
-[![Peak performance and feeding ratios of an all purpose starter](/assets/images/tutorials/moldy-starter.jpg)](/assets/images/tutorials/moldy-starter.jpg)
-
-
-# Bacteria and yeast should be in a balance
+## Bacteria and yeast should be in a balance
 
 You normally have a balance of fungus (yeast) and bacteria in your starter. If your starter catches mold it might be that something is off in your balance.
 By feeding your starter again you will probably always continue to grow mold passively. It's always still there. But....
 
 
-# Mold likes oxygen
+## Mold likes oxygen
 
 Mold is aerobic [and needs to have oxygen](http://www.wetandforget.com/blog/2018/06/27/how-mold-grows/). That's why you will most likely see mold on the top of your sourdough
 starter. An environment where you have no oxygen will help to prevent mold from growing.
 
-# Acidity preserves food
+## Acidity preserves food
 
 If you look at pickled vegetables or Sauerkraut, acidity is a way to preserve food. The acidity makes sure that no external pathogens can enter this hostile environment. So a very sour sourdough starter will very likely also destroy your mold
 
-# The solution
+## The solution
 
 In a previous video I was trying to make a [sourdough bread with the help of fruit flies.](https://www.youtube.com/watch?v=xEwk5yHf_Gc) In between I noticed that there was some mold
 gathering on top of my starter. Some viewers pointed out it might also have been Kahm yeast. But I wasn't so sure. So what I did was the following.
@@ -51,6 +49,6 @@ we are create anaerobic (no air) conditions which the mold also does not appreci
 You will likely still have a few spores left so that the mold in theory could grow again. That's why I recommend that you make sure to make your starter quite sour. The more sour the more likely it is that all pathogens other than your sourdough microorganisms are killed.
 before you move it back to the fridge. Just let it sit for 24 hours at room temperature for instance.
 
-# Closing words
+## Closing words
 
 Please note that I am no doctor and this is not medical advice. If you want to be 100% sure then start a new starter. Although this has worked for me before (and the science makes sense)

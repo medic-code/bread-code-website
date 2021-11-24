@@ -13,7 +13,7 @@ intro: Sourdough is an excellent way to make your bread more fluffy. At the same
 
 ## Make your own sourdough
 
-![Some yummy rye breads. But you can also bake every other bread with sourdough](/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg" alt="Yummy rye breads"></div>
 
 A welcome side effect is that you can eat your bread for a
 longer period of time as it does not catch mold as fast as yeast-only bread.
@@ -96,7 +96,7 @@ If it is colder it might take a little longer to get the mother dough ready.
 If it is warmer, it could be done sooner.
 Regardless, just stick to the 7 day strategy and you will be fine.
 
-![Use full grain flour](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg" alt="Whole grain flour"></div>
 
 ## Day 2
 
@@ -105,7 +105,7 @@ Cover the dough with plastic wrap, not airtight. Just a little a bit. We have
 gathered enough yeast and bacteria from the air on the first day. Now we want
 our seed bacteria and yeast to reproduce.
 
-![Add together the water and flour](/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg" alt="Added water and flour"></div>
 
 ## Day 3
 
@@ -134,11 +134,11 @@ When not needing the mother dough, cover it with some foil and place it in your 
 This slows down the bacteria and yeasts' activity.
 Unless you want to start baking now, place the sourdough in the fridge.
 
-![This is how it should look like after 8 days. This was rye sourdough](/assets/images/recipes/2019-10-15-make-sourdough/sourdough-8-days.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/sourdough-8-days.jpg" alt="After 8 days"></div>
 
 ## Baking
 
-![Full grain rye vs 100% rye bread at the bottom](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-rye-vs-100-rye.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/full-grain-rye-vs-100-rye.jpg" alt="Rye vs rye"></div>
 
 A healthy formula is 20% sourdough for a rye bread/full grain bread.
 Assuming you would bake 500 grams of flour, you will need 100 grams of sourdough.
@@ -195,11 +195,11 @@ All the recipes follow this simple principle:
 
 Below is what many first ever baked sourdough bread looked like. If yours looks somewhat like this, you did a good job. It was a mixture of 50% rye and 50% full grain.
 
-![My first ever baked sourdough bread](/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough.jpg" alt="First sourdough"></div>
 
 This is what it looked like from the inside:
 
-![Crumb shot of my first sourdough bread](/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough-crumb.jpg)
+<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough-crumb.jpg" alt="First sourdough crumb"></div>
 
 If you don't feed your mother dough it will eventually starve as it has no more food.
 Don't worry, my mother dough survived for 4 weeks in the fridge.

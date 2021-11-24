@@ -16,16 +16,16 @@ He looked at the questions of: How much should your sourdough starter increase i
 **TLGLDR** (Too long, get lost, didn’t read 🤣) - A whole wheat starter reaches its peak performance faster than a bread flour based starter. The peak is individually dependant on the flour that you are feeding. Measure your own personal peak, you can start using your starter already before you reach the peak. You need to find a balance between slow and fast fermentation.
 
 Let's first have a look at all purpose starter:
-[![Peak performance and feeding ratios of an all purpose starter](/assets/images/tutorials/starter-all-purpose-starter.png)](/assets/images/tutorials/starter-all-purpose-starter.png)
+<div><img src="/assets/images/tutorials/starter-all-purpose-starter.png" alt="All purpose starter"></div>
 
 Next up a whole wheat starter, fed in advance for several days only with whole what flour:
-[![Peak performance and feeding ratios of a whole wheat starter](/assets/images/tutorials/starter-whole-wheat-starter.png)](/assets/images/tutorials/starter-whole-wheat-starter.png)
+<div><img src="/assets/images/tutorials/starter-whole-wheat-starter.png" alt="Whole wheat starter"></div>
 
 Going back to the all purpose starter - growth checkmarks:
-[![How long it takes for an all purpose starter to double](/assets/images/tutorials/starter-size-increase-all-purpose.png)](/assets/images/tutorials/starter-size-increase-all-purpose.png)
+<div><img src="/assets/images/tutorials/starter-size-increase-all-purpose.png" alt="Size increase all purpose starter"></div>
 
 Same for the whole wheat starter:
-[![How long it takes for a whole wheat starter to double](/assets/images/tutorials/starter-size-increase-whole-wheat.png)](/assets/images/tutorials/starter-size-increase-whole-wheat.png)
+<div><img src="/assets/images/tutorials/starter-size-increase-whole-wheat.png" alt="Size increase whole wheat starter"></div>
 
 ## Why does your dough increase in size and then collapses?
 

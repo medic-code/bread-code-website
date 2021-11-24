@@ -578,8 +578,9 @@ figure {
 
 footer {
 	background: hsl(var(--clr-light));
-	padding: 1em 0;
+	padding: 2em 0;
 	margin-block-start: auto;
+	text-align: center;
 
 	.copyright {
 		display: flex;

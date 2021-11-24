@@ -15,14 +15,13 @@ Everything is done from scratch, explained in detail, easy for you to follow lea
 This masterclass looks at the recipe as well as the why behind it.
 That way you know how to adapt when things go sideways. The [original class can be found as a video on my YouTube channel](https://www.youtube.com/watch?v=NMglhwp2lNs).
 Please note this is only for wheat based breads with more than 80% wheat.
-
-[![The final sourdough bread](/assets/images/recipes/last-sourdough-recipe-1.jpg)](/assets/images/recipes/last-sourdough-recipe-1.jpg)
+<div><img src="/assets/images/recipes/last-sourdough-recipe-1.jpg" alt="Recipe 1"></div>
 
 I am assuming that you want to bake the sourdough bread in the morning to have it ready for breakfast.
 This recipe assumes that you want to have the dough ready on Saturday morning.
 You might have to adjust the days depending on when you actually want it ready.
 
-[![The full process as a float chart](/assets/images/recipes/last-sourdough-recipe-full-process.jpg)](/assets/images/recipes/last-sourdough-recipe-full-process.jpg)
+<div><img src="/assets/images/recipes/last-sourdough-recipe-full-process.jpg" alt="Full process"></div>
 
 ## Ingredients
 
@@ -53,7 +52,7 @@ Your sourdough should be able to double in size within 5-10 hours after a feedin
 If it does, then perfect. If not, consider feeding your starter with the below shown process.
 Furthermore you want to check out [this video on 4 tips that will make your sourdough starter more active.](https://www.youtube.com/watch?v=yYkTrGHNW2w)
 
-[![The final sourdough bread](/assets/images/recipes/last-sourdough-recipe-starter-process.jpg)](/assets/images/recipes/last-sourdough-recipe-starter-process.jpg)
+<div><img src="/assets/images/recipes/last-sourdough-recipe-starter-process.jpg" alt="Starter process"></div>
 
 Note the 1:5:5 in the image means, 10 grams of sourdough starter, 50 grams of flour and 50 grams of water.
 You want to be feeding ideally whole rye, or whole wheat flour. This will make a more active
@@ -171,11 +170,11 @@ fridge comes in handy as you can decide when you want to bake your bread.
 
 I have added 1 more flowchart for the process at room temperature:
 
-[![This is the whole process at room temperature](/assets/images/recipes/last-sourdough-recipe-proofing-process-room-temperature.jpg)](/assets/images/recipes/last-sourdough-recipe-proofing-process-room-temperature.jpg)
+<div><img src="/assets/images/recipes/last-sourdough-recipe-proofing-process-room-temperature.jpg" alt="Room temperature"></div>
 
 And then if you opt for the fridge option, do it like this:
 
-[![This is the whole process using a fridge](/assets/images/recipes/last-sourdough-recipe-proofing-process-fridge.jpg)](/assets/images/recipes/last-sourdough-recipe-proofing-process-fridge.jpg)
+<div><img src="/assets/images/recipes/last-sourdough-recipe-proofing-process-fridge.jpg" alt="Fridge proofing"></div>
 
 ## Baking
 
@@ -204,4 +203,4 @@ Change the temperature of your oven to 230°C and make sure the fan is turned of
 
 And here is another crumb shot to finish the recipe. Please let me know if your bread looks similar. Thanks to Peg Ross for helping me write this down!
 
-[![The final sourdough bread](/assets/images/recipes/last-sourdough-recipe-2.jpg)](/assets/images/recipes/last-sourdough-recipe-2.jpg)
+<div><img src="/assets/images/recipes/last-sourdough-recipe-2.jpg" alt="Recipe 2"></div>

@@ -17,9 +17,9 @@ will not stick together as nicely as regular wheat dough.
 At the same time the bread is a little denser, as not as
 much air can be trapped inside of the dough when baking.
 
-![Portuguese Broa Bread](/assets/images/recipes/portuguese-broa-corn-bread-1.jpg)
+<div><img src="/assets/images/recipes/portuguese-broa-corn-bread-1.jpg" alt="Corn bread"></div>
 
-![Portuguese Broa Bread](/assets/images/recipes/portuguese-broa-corn-bread-4.jpg)
+<div><img src="/assets/images/recipes/portuguese-broa-corn-bread-4.jpg" alt="Corn bread 4"></div>
 
 ## Ingredients
 
@@ -45,7 +45,8 @@ much air can be trapped inside of the dough when baking.
 Wait 30 minutes before cutting. From experience the bread can survive 2 weeks
 depending on how long you fermented the the dough.
 
-![Portuguese Broa Bread](/assets/images/recipes/portuguese-broa-corn-bread-2.jpg)
-![Portuguese Broa Bread](/assets/images/recipes/portuguese-broa-corn-bread-3.jpg)
+<div><img src="/assets/images/recipes/portuguese-broa-corn-bread-2.jpg" alt="Corn bread 2"></div>
+
+<div><img src="/assets/images/recipes/portuguese-broa-corn-bread-3.jpg" alt="Corn bread 3"></div>
 
 [Please also check out the full video on YouTube](https://youtu.be/bjLCHRInmLY)
