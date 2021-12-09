@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Fixing your moldy Sourdough Starter"
+title: "Fixing Your moldy Sourdough Starter"
 categories: tutorial
-description: This contains all the information you need to fully understand the key differences between a regular, a liquid and a stiff sourdough starter.
+description: This is how you can fix your moldy sourdough starter in a few steps.
 author: Hendrik Kleinwächter
 
 [comment]: # Bild für Blog Hauptseite
