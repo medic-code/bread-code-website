@@ -13,7 +13,10 @@ intro: Sourdough is an excellent way to make your bread more fluffy. At the same
 
 ## Make your own sourdough
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg" alt="Yummy rye breads"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg" alt="Yummy rye breads"></div> -->
+
+[![Yummy rye breads](/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/yummy-ryes.jpg)
+{: .postImg}
 
 A welcome side effect is that you can eat your bread for a
 longer period of time as it does not catch mold as fast as yeast-only bread.
@@ -96,7 +99,10 @@ If it is colder it might take a little longer to get the mother dough ready.
 If it is warmer, it could be done sooner.
 Regardless, just stick to the 7 day strategy and you will be fine.
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg" alt="Whole grain flour"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg" alt="Whole grain flour"></div> -->
+
+[![Whole grain flour](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-flour.jpg)
+{: .postImg}
 
 ## Day 2
 
@@ -105,7 +111,10 @@ Cover the dough with plastic wrap, not airtight. Just a little a bit. We have
 gathered enough yeast and bacteria from the air on the first day. Now we want
 our seed bacteria and yeast to reproduce.
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg" alt="Added water and flour"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg" alt="Added water and flour"></div> -->
+
+[![Added water and flour](/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/add-water-and-flour.jpg)
+{: .postImg}
 
 ## Day 3
 
@@ -134,11 +143,17 @@ When not needing the mother dough, cover it with some foil and place it in your 
 This slows down the bacteria and yeasts' activity.
 Unless you want to start baking now, place the sourdough in the fridge.
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/sourdough-8-days.jpg" alt="After 8 days"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/sourdough-8-days.jpg" alt="After 8 days"></div> -->
+
+[![After 8 days](/assets/images/recipes/2019-10-15-make-sourdough/sourdough-8-days.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/sourdough-8-days.jpg)
+{: .postImg}
 
 ## Baking
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/full-grain-rye-vs-100-rye.jpg" alt="Rye vs rye"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/full-grain-rye-vs-100-rye.jpg" alt="Rye vs rye"></div> -->
+
+[![Rye vs rye](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-rye-vs-100-rye.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/full-grain-rye-vs-100-rye.jpg)
+{: .postImg}
 
 A healthy formula is 20% sourdough for a rye bread/full grain bread.
 Assuming you would bake 500 grams of flour, you will need 100 grams of sourdough.
@@ -195,11 +210,18 @@ All the recipes follow this simple principle:
 
 Below is what many first ever baked sourdough bread looked like. If yours looks somewhat like this, you did a good job. It was a mixture of 50% rye and 50% full grain.
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough.jpg" alt="First sourdough"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough.jpg" alt="First sourdough"></div> -->
+
+
+[![First sourdough](/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough.jpg)
+{: .postImg}
 
 This is what it looked like from the inside:
 
-<div><img src="/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough-crumb.jpg" alt="First sourdough crumb"></div>
+<!-- <div><img src="/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough-crumb.jpg" alt="First sourdough crumb"></div> -->
+
+[![First sourdough crumb](/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough-crumb.jpg)](/assets/images/recipes/2019-10-15-make-sourdough/first-sourdough-crumb.jpg)
+{: .postImg}
 
 If you don't feed your mother dough it will eventually starve as it has no more food.
 Don't worry, my mother dough survived for 4 weeks in the fridge.

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Videos
+title: Recommended Videos
 ---
 
 <section class="section --videos">
 	<div class="container">
-		<h2 class="section__title">Recommended Videos</h2>
+		<h2 class="section__title">{{ page.title }}</h2>
 		<ul class="grid videos">
 			{%- for videos in site.data.videos -%}
 			<li class="videos__item">

@@ -460,7 +460,7 @@ header {
 		}
 	}
 
-	&>.container>div:not(.author),
+	& > .container > .postImg,
 	ol {
 		width: calc(100% + 12%);
 		margin-inline-start: -6%;
@@ -577,7 +577,7 @@ header {
 		}
 	}
 
-	.fullPost>.container>div:not(.author) {
+	.fullPost > .container > .postImg {
 		width: calc(100% + 12%);
 		margin-inline-start: -6%;
 		grid-area: auto / 1 / auto / -1;
@@ -684,7 +684,7 @@ header {
 		}
 	}
 
-	.fullPost>.container>div:not(.author) {
+	.fullPost>.container>.postImg {
 		width: 100%;
 		margin: 0;
 		grid-area: auto / 1 / auto / -1;

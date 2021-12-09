@@ -26,8 +26,14 @@ starter in your fridge or so. Just ramp up the sourdough with your discard start
 The sourness plays really well with the wheat/rye combination. I sometimes go up
 to 40% starter overall, having 20% active starter and 20% old discard starter.
 
-<div><img src="/assets/images/recipes/mischbrot-1.jpg" alt="Picture of Mischbrot"></div>
-<div><img src="/assets/images/recipes/mischbrot-2.jpg" alt="Picture of 2 different scoring techniques"></div>
+<!-- <div><img src="/assets/images/recipes/mischbrot-1.jpg" alt="Picture of Mischbrot"></div>
+<div><img src="/assets/images/recipes/mischbrot-2.jpg" alt="Picture of 2 different scoring techniques"></div> -->
+
+[![Picture of Mischbrot](/assets/images/recipes/mischbrot-1.jpg)](/assets/images/recipes/mischbrot-1.jpg)
+{: .postImg}
+
+[![Picture of 2 different scoring techniques](/assets/images/recipes/mischbrot-2.jpg)](/assets/images/recipes/mischbrot-2.jpg)
+{: .postImg}
 
 ## Ingredients
 
@@ -82,8 +88,18 @@ to 40% starter overall, having 20% active starter and 20% old discard starter.
 
 Wait 30 minutes before cutting. From experience the bread can survive 2 weeks
 depending on how long you fermented the the dough.
-<div><img src="/assets/images/recipes/mischbrot-3.jpg" alt="Picture of Mischbrot"></div>
-<div><img src="/assets/images/recipes/mischbrot-4.jpg" alt="Picture of Mischbrot"></div>
-<div><img src="/assets/images/recipes/mischbrot-5.jpg" alt="Picture of Mischbrot"></div>
+
+<!-- <div><img src="/assets/images/recipes/mischbrot-3.jpg" alt="Picture of Mischbrot"></div> -->
+<!-- <div><img src="/assets/images/recipes/mischbrot-4.jpg" alt="Picture of Mischbrot"></div>
+<div><img src="/assets/images/recipes/mischbrot-5.jpg" alt="Picture of Mischbrot"></div> -->
+
+[![Picture of Mischbrot](/assets/images/recipes/mischbrot-3.jpg)](/assets/images/recipes/mischbrot-3.jpg)
+{: .postImg}
+
+[![Picture of Mischbrot](/assets/images/recipes/mischbrot-4.jpg)](/assets/images/recipes/mischbrot-4.jpg)
+{: .postImg}
+
+[![Picture of Mischbrot](/assets/images/recipes/mischbrot-5.jpg)](/assets/images/recipes/mischbrot-5.jpg)
+{: .postImg}
 
 [Also check out the YouTube video of the whole process.](https://youtu.be/l9g4AI_z3uY)

@@ -362,6 +362,7 @@ figure {
 	width: calc(100% + 12%);
 	margin-inline-start: -6%;
 	position: relative;
+	margin-bottom: 1em;
 
 	img {
 		max-width: 100%;
@@ -391,6 +392,7 @@ figure {
 	background: linear-gradient(hsl(var(--clr-dark) / 0.8),
 			hsl(var(--clr-dark) / 0.8)), url('/assets/images/blog/hero.jpeg') center / cover;
 	background-blend-mode: multiply;
+	background-attachment: fixed;
 	height: 60vh;
 	color: hsl(var(--clr-light));
 	display: grid;
@@ -668,6 +670,7 @@ footer {
 		figure {
 			width: 100%;
 			margin: 0;
+			margin-block-end: 1em;
 		}
 
 		figcaption {

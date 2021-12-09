@@ -14,7 +14,10 @@ imgCaption: Thanks to @Wukong from our discord for the image
 intro: Mold is the worst enemy of your sourdough starter. Many people advise to throw the starter away and create another one from scratch. There might be another way because throwing an old starter away can be quite emotional for bakers.
 ---
 
-<div><img src="/assets/images/blog/moldy-starter.jpg" alt="Moldy starter" /></div>
+<!-- <div><img src="/assets/images/blog/moldy-starter.jpg" alt="Moldy starter" /></div> -->
+
+[![Moldy starter](/assets/images/blog/moldy-starter.jpg)](/assets/images/blog/moldy-starter.jpg)
+{: .postImg}
 
 ## Bacteria and yeast should be in a balance
 
