@@ -1,84 +1,49 @@
 
-- name: 
-  url: 
-  image: 
+- name: Gluten shirt
+  url: "https://shop.the-bread-code.io/listing/may-the-gluten-be-with-you?product=373"
+  image: mayTheGlutenBeWithYou--shirt.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: University shirt
+  url: "https://shop.the-bread-code.io/listing/bread-code-university?product=373"
+  image: breadCodeUni--shirt.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: Gluten mug
+  url: "https://shop.the-bread-code.io/listing/may-the-gluten-be-with-you?product=1566"
+  image: mayTheGlutenBeWithYou--mug.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: Gluten hoodie
+  url: "https://shop.the-bread-code.io/listing/may-the-gluten-be-with-you?product=793"
+  image: mayTheGlutenBeWithYou--hoodie.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: Batard shirt
+  url: "https://shop.the-bread-code.io/listing/batard-sourdough?product=375"
+  image: batard--shirt.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: Pizza shirt
+  url: "https://shop.the-bread-code.io/listing/neapolitan-pizza?product=388"
+  image: pizza--shirt.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: Grumpy shirt
+  url: "https://shop.the-bread-code.io/listing/grumpy-sourdough?product=388"
+  image: grumpyBread--shirt.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
+- name: Biochemistry poster
+  url: "https://shop.the-bread-code.io/listing/biochemistry-sourdough-small?product=653"
+  image: biochemistry.jpg
   coupon: 
   properties:
 
-- name: 
-  url: 
-  image: 
-  coupon: 
-  properties:
-
-- name: 
-  url: 
-  image: 
-  coupon: 
-  properties:
-
-- name: 
-  url: 
-  image: 
-  coupon: 
-  properties:
-
-- name: 
-  url: 
-  image: 
-  coupon: 
-  properties:
-
-- name: 
-  url: 
-  image: 
-  coupon: 
-  properties:
-
-- name: 
-  url: 
-  image: 
-  coupon: 
-  properties:
