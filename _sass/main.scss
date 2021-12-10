@@ -51,11 +51,127 @@ body {
 	color: hsl(var(--clr-light));
 }
 
+.code {
+	font-family: var(--ff-mono);
+}
+
 .section {
 	padding: min(10vh, 10em) 0;
 
-	&.--intro {
+	&.--about {
 		margin-block-start: var(--util-header-height);
+
+		padding: min(5vh, 10em) 0;
+		background: linear-gradient(hsl(var(--clr-dark) / 0.8),
+				hsl(var(--clr-dark) / 0.8)), url('/assets/images/blog/hero.jpeg') center / cover;
+		background-blend-mode: multiply;
+		background-attachment: fixed;
+		height: 60vh;
+		color: hsl(var(--clr-light));
+		display: grid;
+		align-items: end;
+
+		h2 {
+			text-transform: uppercase;
+			font-size: 0.875rem;
+			opacity: 0.6;
+			letter-spacing: 0.1em;
+			margin-block-end: 0.5em;
+		}
+
+		p {
+			color: hsl(var(--clr-light) / 0.6);
+			font-weight: var(--fw-regular);
+			font-size: 0.625rem;
+			line-height: 1.5;
+			max-width: 60%;
+			margin-block-end: 2em;
+
+			a {
+				position: relative;
+				font-weight: var(--fw-bold);
+				transition: var(--util-speed);
+				color: hsl(var(--clr-light));
+				letter-spacing: 0.1em;
+				text-decoration: underline;
+
+				&:hover, &:focus {
+					color: hsl(var(--clr-accent));
+				}
+			}
+		}
+
+		h1 {
+			font-size: 1.25rem;
+			font-weight: var(--fw-bold);
+			position: relative;
+
+			&::before {
+				position: absolute;
+				content: '';
+				inset-block-start: -0.5rem;
+				inset-inline-start: 0;
+				width: 2rem;
+				height: 0.125rem;
+				background: hsl(var(--clr-light));
+			}
+		}
+
+		@media (min-width: 48em) {
+			background: linear-gradient(hsl(var(--clr-dark) / 0.8),
+				hsl(var(--clr-dark) / 0.8)), url('/assets/images/blog/hero.jpeg') center left 30% / cover;
+			background-attachment: fixed;
+
+			.about {
+				grid-area: 1 / 1 / 2 / 4;
+			}
+
+			h2 {
+				font-size: 1.25rem;
+			}
+
+			p {
+				font-size: 0.875rem;
+			}
+
+			h1 {
+				font-size: 3rem;
+
+				&:before {
+					inset-block-start: -0.5rem;
+				}
+			}
+		}
+
+		@media (min-width: 64.5em) {
+			background-attachment: fixed;
+			padding: min(10vh, 10em) 0;
+
+			.about {
+				grid-area: 1 / 1 / 2 / 7;
+			}
+
+			h2 {
+				font-size: 2rem;
+			}
+
+			p {
+				font-size: 1rem;
+				line-height: 1.8;
+			}
+
+			h1 {
+				font-size: 4rem;
+
+				&:before {
+					inset-block-start: -0.75rem;
+				}
+			}
+		}
+	}
+
+	&.--intro {
+		
 
 		@media (min-width: 48em) {
 			.split {
