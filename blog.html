@@ -22,7 +22,7 @@ title: Blog
 		{% for post in site.posts limit: 1 %}
 		<div class="post">
 			<figure>
-				<img src="/assets/images/blog/{{ post.img }}" alt="{{ post.img }}" class="post__image" />
+				<a href="{{ post.url | relative_url }}"><img src="/assets/images/{{ post.img }}" alt="{{ post.img }}" class="post__image" /></a>
 				{% if post.imgCaption %}
 				<figcaption>
 					<p>{{post.imgCaption}}</p>
@@ -37,7 +37,7 @@ title: Blog
 					<p class="date">{{ post.date | date: date_format }}</p>
 				</div>
 				<div class="post__body">
-					<h2 class="post__title">{{ post.title }}</h2>
+          <a href="{{ post.url | relative_url }}"><h2 class="post__title">{{ post.title }}</h2></a>
 					
 					<p class="post__snippet">{{ post.intro }}</p>
 					<a href="{{ post.url | relative_url }}" class="post__btn">Read more &rarr;</a>

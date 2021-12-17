@@ -1,4 +1,10 @@
-# Bread Code Website
+# theBread.code(); Website
+
+![Repo welcome image](repo-image.jpg)
+
+This is the source code [of the bread code website](https://www.the-bread-code.io).
+
+Bugs, issues? Feel free to open up a pull request.
 
 ## Installation
 
