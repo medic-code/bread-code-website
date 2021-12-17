@@ -37,6 +37,7 @@ as well to produce more dairy notes. It's mindblowing if you ask me how just cha
 can completely change your sourdough starter.
 
 In case you were wondering, it's stiff, because it holds together. If you flip your jar over like this it just stays in the jar! Magic.
+
 [![A stiff sourdough starter](/assets/images/recipes/stollen/sourdough-stollen-19.jpg)](/assets/images/recipes/stollen/sourdough-stollen-19.jpg)
 {: .postImg}
 
@@ -205,10 +206,12 @@ Wrap your Stollen in Aluminum foil and then store it in a Ziploc bag, ideally so
 Let the Stollen sit at least for 1 day before tasting it. This allows the fruits to release more Aroma into the dough. It’s popular in Germany to leave one Stollen until Eastern. This would be an “Osterstollen”. It can stay good for a very long time! Most Germans store it for at least a week before tasting it. But seriously, the next day it already tastes much better than most Stollen you can find. I was so amazed and so happy this could be made to work with Sourdough.
 
 The below picture shows the perfect consistency of the Stollen. Slightly fluffy, but not too much.
+
 [![Stollen in storage mode](/assets/images/recipes/stollen/sourdough-stollen-53.jpg)](/assets/images/recipes/stollen/sourdough-stollen-53.jpg)
 {: .postImg}
 
 Over time the dried fruits will release more Aroma into the Stollen. That's why it should mature.
+
 [![Stollen in storage mode](/assets/images/recipes/stollen/sourdough-stollen-50.jpg)](/assets/images/recipes/stollen/sourdough-stollen-50.jpg)
 {: .postImg}
 
